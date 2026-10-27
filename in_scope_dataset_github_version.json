@@ -1,0 +1,1853 @@
+[
+  {
+    "question": [
+      "Existe alguma falha do tipo [ALL_FAULTS]?",
+      "Tem algum tipo de classificação para sinais com indícios de [ALL_FAULTS]?",
+      "Existe a falha do tipo de [ALL_FAULTS]?",
+      "Há uma falha do tipo [ALL_FAULTS]?",
+      "[ALL_FAULTS] é considerado um tipo de falha?",
+      "[ALL_FAULTS] faz parte dos tipos de falha?",
+      "Existe algum tipo de falha relacionado a [ALL_FAULTS]?",
+      "[ALL_FAULTS] está entre os tipos de falha considerados?",
+      "Há algum tipo de falha associado a [ALL_FAULTS]?",
+      "Existe uma categoria de falha para [ALL_FAULTS]?",
+      "[ALL_FAULTS] é reconhecido como um tipo de falha?",
+      "Existe alguma falha que corresponda ao tipo de [ALL_FAULTS]?",
+      "Há algum tipo de falha que represente [ALL_FAULTS]?",
+      "[ALL_FAULTS] está contemplado entre os tipos de falhas?",
+      "Existe alguma classificação de falha para [ALL_FAULTS]?",
+      "Há alguma categoria relacionada à falha de [ALL_FAULTS]?",
+      "Existe algum tipo de falha definida como [ALL_FAULTS]?"
+    ]
+  },
+  {
+    "question": [
+      "Me mostre um exemplo de sinal de cada projeto com [FAULT].",
+      "Em cada projeto, mostre um exemplo de sinal de [FAULT].",
+      "Mostre um exemplo de [FAULT] para cada projeto.",
+      "Me mostre um exemplo de sinal com [FAULT] para cada projeto.",
+      "Para cada projeto, quero um exemplo de sinal que apresente [FAULT].",
+      "Mostre, em cada projeto, um sinal que represente [FAULT].",
+      "Selecione um exemplo de sinal de cada projeto que apresente [FAULT].",
+      "Me mostre um exemplo de cada projeto em que o sinal indique [FAULT].",
+      "Identifique um sinal de cada projeto que contenha evidências de [FAULT].",
+      "Para cada projeto, apresente um sinal em que seja possível observar uma falha de [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "Me mostre [NUMBER] exemplos de sinais com [FAULT] em cada projeto.",
+      "Mostre exemplos de sinais com [FAULT], [NUMBER] por projeto.",
+      "Quero [NUMBER] exemplos de sinais de cada projeto com [FAULT].",
+      "Para cada projeto, me mostre [NUMBER] exemplos de sinais com [FAULT].",
+      "Em cada projeto, encontre [NUMBER] exemplos de sinais com [FAULT].",
+      "Liste [NUMBER] exemplos de sinais com [FAULT] para cada projeto.",
+      "Mostre, para cada projeto, [NUMBER] exemplos de sinais que apresentem [FAULT].",
+      "Encontre [NUMBER] sinais com [FAULT] em cada projeto e mostre os exemplos.",
+      "Quero ver [NUMBER] sinais de cada projeto que apresentem [FAULT].",
+      "Apresente [NUMBER] exemplos por projeto de sinais associados a [FAULT].",
+      "Separe por projeto [NUMBER] exemplos de sinais com [FAULT].",
+      "Para cada projeto, mostre [NUMBER] sinais que apresentam [FAULT]?",
+      "Mostre [NUMBER] sinais de cada projeto que tenham [FAULT].",
+      "Identifique [NUMBER] exemplos de sinais com [FAULT] em cada projeto.",
+      "Traga [NUMBER] exemplos de sinais com [FAULT] em cada projeto.",
+      "Considere cada projeto e mostre [NUMBER] exemplos de sinais com [FAULT] de cada um.",
+      "Em quais sinais aparecem indícios de [FAULT]? Mostre [NUMBER] exemplos por projeto."
+    ]
+  },
+  {
+    "question": [
+      "Me mostre [NUMBER] exemplos de sinais com [FAULT] para cada teste neste projeto.",
+      "Mostre [NUMBER] exemplos de sinais com [FAULT] neste projeto para cada teste.",
+      "Quero [NUMBER] exemplos de sinais com [FAULT] neste projeto para cada teste.",
+      "Somente neste projeto, encontre [NUMBER] exemplos de sinais com [FAULT] para cada teste.",
+      "Liste [NUMBER] exemplos de sinais com [FAULT] para cada teste neste projeto.",
+      "Mostre [NUMBER] exemplos de sinais que apresentem [FAULT] para cada teste neste projeto.",
+      "Encontre [NUMBER] sinais com [FAULT] neste projeto para cada teste.",
+      "Quero ver [NUMBER] sinais que apresentem [FAULT] neste projeto para cada teste.",
+      "Apresente [NUMBER] exemplos de sinais associados a [FAULT] neste projeto para cada teste.",
+      "Neste projeto, para cada teste, quais [NUMBER] sinais apresentam [FAULT]?.",
+      "Mostre [NUMBER] sinais para cada teste deste projeto que apresentem [FAULT].",
+      "Identifique [NUMBER] exemplos de sinais com [FAULT] para cada teste neste projeto.",
+      "Traga [NUMBER] exemplos de sinais em cada teste deste projeto com [FAULT].",
+      "Considere somente este projeto e mostre [NUMBER] exemplos de sinais com [FAULT] para cada teste."
+    ]
+  },
+  {
+    "question": [
+      "Quantos sinais foram classificados como [FAULT]? Mostre por projeto",
+      "Quantos sinais de cada projeto foram classificados com [FAULT]?",
+      "Qual é a quantidade de sinais classificados com [FAULT] em cada projeto?",
+      "Quantos casos de [FAULT] foram classificados em cada projeto?",
+      "Quantos sinais apresentam a classificação de [FAULT] por projeto?",
+      "Quantos sinais estão classificados como [FAULT] em cada projeto?",
+      "Qual o número de sinais classificados com [FAULT] por projeto?",
+      "Quantos sinais foram identificados como [FAULT] em cada projeto?",
+      "Em cada projeto, quantos sinais receberam a classificação de [FAULT]?",
+      "Quantos sinais possuem classificação de [FAULT]? Separe por projeto.",
+      "Quantos sinais com classificação de [FAULT] existem em cada projeto?",
+      "Como se distribuem, por projeto, os sinais classificados com [FAULT]?",
+      "Mostre a quantidade de sinais classificados com [FAULT] para cada projeto.",
+      "Faça a contagem dos sinais classificados com [FAULT] e mostre o resultado por projeto.",
+      "Quantos sinais de cada projeto possuem a classificação de [FAULT]?",
+      "Para cada projeto, informe quantos sinais foram classificados com [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "Algum sinal neste projeto apresenta [FAULT]?",
+      "Existe algum sinal neste projeto que apresente [FAULT]?",
+      "Há algum sinal neste projeto com [FAULT]?",
+      "Tem algum sinal deste projeto que apresente [FAULT]?",
+      "Algum sinal deste projeto apresenta [FAULT]?",
+      "Foi identificado algum sinal com [FAULT] neste projeto?",
+      "Existem sinais neste projeto que apresentem [FAULT]?",
+      "Há sinais deste projeto com indícios de [FAULT]?",
+      "É possível encontrar algum sinal com [FAULT] neste projeto?",
+      "Algum dos sinais deste projeto apresenta [FAULT]?",
+      "Existe algum sinal do projeto associado a [FAULT]?",
+      "Neste projeto, há algum sinal relacionado a [FAULT]?",
+      "Neste projeto, foi encontrado algum sinal com [FAULT]?",
+      "[FAULT] aparece em algum sinal deste projeto?",
+      "Algum sinal do projeto possui [FAULT]?",
+      "É possível identificar [FAULT] em algum sinal deste projeto?"
+    ]
+  },
+  {
+    "question": [
+      "Algum sinal nesta BCS apresenta [FAULT]?",
+      "Existe algum sinal nesta BCS que apresente [FAULT]?",
+      "Há algum sinal nesta BCS com [FAULT]?",
+      "Tem algum sinal desta BCS que apresente [FAULT]?",
+      "Algum sinal desta BCS apresenta [FAULT]?",
+      "Foi identificado algum sinal com [FAULT] nesta BCS?",
+      "Existem sinais nesta BCS que apresentem [FAULT]?",
+      "Há sinais desta BCS com indícios de [FAULT]?",
+      "É possível encontrar algum sinal com [FAULT] nesta BCS?",
+      "Algum dos sinais desta BCS apresenta [FAULT]?",
+      "Existe algum sinal nessa BCS associado a [FAULT]?",
+      "Nesta BCS, há algum sinal relacionado a [FAULT]?",
+      "Nesta BCS, foi encontrado algum sinal com [FAULT]?",
+      "Há ocorrência de itens com [FAULT] em algum sinal desta BCS?",
+      "[FAULT] aparece em algum sinal desta BCS?",
+      "Algum sinal nessa BCS possui [FAULT]?",
+      "Existem sinais nessa BCS que contenham [FAULT]?",
+      "É possível identificar [FAULT] em algum sinal desta BCS?",
+      "Nesta BCS, algum sinal indica [FAULT]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum teste feito em [ROTATION]Hz?",
+      "Existe algum teste feito em [ROTATION]Hz?",
+      "Há algum teste realizado em [ROTATION]Hz?",
+      "Foram realizados testes em [ROTATION]Hz?",
+      "Tem algum teste executado em [ROTATION]Hz?",
+      "Algum teste foi realizado com uma frequência de [ROTATION]Hz?",
+      "Existem testes feitos sob uma frequência de [ROTATION]Hz?",
+      "Há testes realizados com [ROTATION]Hz de frequência?",
+      "Foi feito algum teste operando a [ROTATION]Hz?",
+      "Algum dos testes foi feito a [ROTATION]Hz?",
+      "Existem outros testes realizados em [ROTATION]Hz?",
+      "Foram feitos outros testes com frequência de rotação em [ROTATION]Hz?",
+      "Há algum outro teste operando em [ROTATION]Hz?",
+      "Tem algum teste em que a rotação foi de [ROTATION]Hz?",
+      "Existe algum teste associado à condição de [ROTATION]Hz?",
+      "Há registros de testes realizados a [ROTATION]Hz?",
+      "Algum teste foi executado sob a condição de [ROTATION]Hz?",
+      "É possível encontrar testes realizados em [ROTATION]Hz?",
+      "Quais testes foram realizados em [ROTATION]Hz?"
+    ]
+  },
+  {
+    "question": [
+      "Me mostre [NUMBER] exemplos de componentes que contém sinais que apresentam [FAULT].",
+      "Mostre [NUMBER] exemplos de componentes que contém sinais com [FAULT].",
+      "Me mostre [NUMBER] componentes que contém sinais que apresentam [FAULT].",
+      "Quais [NUMBER] componentes que contém sinais que apresentam [FAULT]?",
+      "Existem [NUMBER] exemplos de componentes que contém sinais com [FAULT]?",
+      "Liste [NUMBER] componentes que contém sinais que apresentam [FAULT].",
+      "Encontre [NUMBER] exemplos de componentes que contém sinais que tenham [FAULT].",
+      "Quero ver [NUMBER] exemplos de componentes que contém sinais com [FAULT].",
+      "Apresente [NUMBER] componentes que contém sinais que apresentem [FAULT].",
+      "Quais são [NUMBER] exemplos de componentes que contém sinais associados a [FAULT]?",
+      "Mostre [NUMBER] casos de componentes que contém sinais que apresentam [FAULT].",
+      "Identifique [NUMBER] componentes que contém sinais que apresentem [FAULT].",
+      "Traga [NUMBER] exemplos de componentes que contém sinais afetados por [FAULT].",
+      "Há componentes que contém sinais que apresentam [FAULT]? Mostre [NUMBER] exemplos.",
+      "Selecione [NUMBER] exemplos de componentes que contém sinais com [FAULT].",
+      "Existem componentes que contém sinais que apresentam [FAULT]? Mostre [NUMBER] exemplos.",
+      "É possível encontrar [NUMBER] componentes que contém sinais que apresentem [FAULT]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem um projeto [PROJECT]?",
+      "Existe um projeto [PROJECT]?",
+      "Tem algum projeto chamado [PROJECT]?",
+      "Existe o projeto [PROJECT]?",
+      "Há um projeto chamado [PROJECT]?",
+      "O projeto [PROJECT] existe?",
+      "[PROJECT] é um projeto existente?",
+      "Foi cadastrado algum projeto como [PROJECT]?",
+      "Tem algum projeto identificado como [PROJECT]?",
+      "Há algum projeto com o nome [PROJECT]?",
+      "Existe algum projeto com o nome [PROJECT]?",
+      "Existe algum projeto identificado por [PROJECT]?",
+      "[PROJECT] está cadastrado como projeto?",
+      "É possível encontrar um projeto chamado [PROJECT]?",
+      "Há algum projeto que seja o [PROJECT]?",
+      "Existe algum projeto cujo nome seja [PROJECT]?",
+      "[PROJECT] aparece como nome de algum projeto?",
+      "Tem algum projeto registrado como [PROJECT]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem como você me mostrar os tipos de falhas que estão presentes no projeto [PROJECT]?",
+      "Quais tipos de falha estão presentes no [PROJECT]?",
+      "Quais são as falhas presentes no [PROJECT]?",
+      "Que tipos de falha existem no projeto [PROJECT]?",
+      "Quais falhas foram identificadas no [PROJECT]?",
+      "Me mostre os tipos de falha do projeto [PROJECT].",
+      "Mostre quais tipos de falha aparecem no [PROJECT].",
+      "Quais tipos de falha foram encontrados no [PROJECT]?",
+      "Que falhas estão associadas ao projeto [PROJECT]?",
+      "Quais são os tipos de falha registrados no [PROJECT]?",
+      "Quais falhas aparecem nos sinais do projeto [PROJECT]?",
+      "Quais tipos de falha estão associados aos sinais do projeto [PROJECT]?",
+      "Liste os tipos de falha encontrados no [PROJECT].",
+      "Você pode mostrar as falhas presentes no [PROJECT]?",
+      "É possível mostrar os tipos de falha presentes em [PROJECT]?",
+      "Quais categorias de falha estão presentes no [PROJECT]?",
+      "Que tipos de falha foram observados no projeto [PROJECT]?",
+      "O projeto [PROJECT] possui quais tipos de falha?",
+      "Quais falhas estão presentes no [PROJECT]?",
+      "Mostre as diferentes falhas encontradas no projeto [PROJECT].",
+      "Quais são as categorias de falhas presentes em [PROJECT]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem alguma sinal com a falha de [FAULT] com uns [PERCENTAGE]% de chance de acontecer?",
+      "Existe alguma sinal com a falha de [FAULT] com aproximadamente [PERCENTAGE]% de probabilidade?",
+      "Há alguma ocorrência de itens com a falha de [FAULT] com cerca de [PERCENTAGE]% de chance de acontecer?",
+      "Existe algum caso de itens com a falha de [FAULT] com uma probabilidade próxima de [PERCENTAGE]%?",
+      "Tem alguma instância de [FAULT] com aproximadamente [PERCENTAGE]% de chance de acontecer?",
+      "Há algum [FAULT] cuja chance de ocorrência esteja em torno de [PERCENTAGE]%?",
+      "Existe algum sinal com [FAULT] com uma chance de ocorrência em torno de [PERCENTAGE]%?",
+      "Tem algum caso de [FAULT] com cerca de [PERCENTAGE]% de probabilidade?",
+      "Há algum item com falha de [FAULT] com probabilidade de ocorrência próxima de [PERCENTAGE]%?",
+      "Existe um sinal com uma falha do tipo [FAULT] com chance de ocorrência por volta de [PERCENTAGE]%?",
+      "É possível encontrar [FAULT] com aproximadamente [PERCENTAGE]% de chance de acontecer?",
+      "Tem algum registro de [FAULT] cuja probabilidade esteja próxima de [PERCENTAGE]%?",
+      "Há algum sinal classificado como [FAULT] com cerca de [PERCENTAGE]% de chance de ocorrer?"
+    ]
+  },
+  {
+    "question": [
+      "Alguma das falhas presentes neste teste apresenta uma probabilidade menor que [PERCENTAGE]%?",
+      "Existe alguma falha neste teste com probabilidade menor que [PERCENTAGE]%?",
+      "Tem alguma falha neste teste com chance de ocorrência abaixo de [PERCENTAGE]%?",
+      "Alguma falha deste teste tem uma probabilidade de ocorrência inferior a [PERCENTAGE]%?",
+      "Há alguma falha neste teste cuja probabilidade seja menor que [PERCENTAGE]%?",
+      "Alguma das falhas deste teste tem chance de acontecer em menos de [PERCENTAGE]% dos casos?",
+      "Existe alguma falha presente neste teste com chance de ocorrência abaixo de [PERCENTAGE]%?",
+      "Neste teste, alguma falha apresenta probabilidade de ocorrência menor que [PERCENTAGE]%?",
+      "Existe alguma falha neste teste cuja chance de ocorrência seja inferior a [PERCENTAGE]%?",
+      "Verifique se há alguma falha neste teste com probabilidade menor que [PERCENTAGE]%.",
+      "Confira se alguma das falhas deste teste tem probabilidade abaixo de [PERCENTAGE]%.",
+      "Quero saber se existe alguma falha neste teste com chance de ocorrência menor que [PERCENTAGE]%.",
+      "Quero verificar se alguma falha deste teste apresenta probabilidade inferior a [PERCENTAGE]%.",
+      "Pode verificar se alguma falha presente neste teste tem probabilidade menor que [PERCENTAGE]%?",
+      "Tem alguma das falhas deste teste com probabilidade de ocorrência abaixo de [PERCENTAGE]%?",
+      "Alguma falha presente neste teste está abaixo de [PERCENTAGE]% de probabilidade?",
+      "Existe alguma falha entre as presentes neste teste com chance de ocorrência menor que [PERCENTAGE]%?",
+      "Alguma das falhas identificadas neste teste possui probabilidade de ocorrência inferior a [PERCENTAGE]%?",
+      "Neste teste, há alguma falha cuja chance de ocorrência esteja abaixo de [PERCENTAGE]%?",
+      "Entre as falhas deste teste, alguma tem probabilidade de ocorrência menor que [PERCENTAGE]%?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os componentes que estão atualmente registrados no software?",
+      "Quais componentes estão registrados no software?",
+      "Que componentes estão atualmente cadastrados no software?",
+      "Quais componentes estão cadastrados no sistema?",
+      "Quais são os componentes registrados atualmente?",
+      "Quais componentes estão disponíveis no software?",
+      "Quais componentes estão presentes no software?",
+      "Quais componentes foram registrados no software?",
+      "Quais são os componentes cadastrados atualmente no software?",
+      "Pode me mostrar os componentes registrados no software?",
+      "Quais componentes estão listados no software?",
+      "Que componentes estão registrados atualmente no sistema?",
+      "Quais componentes o software possui registrados?",
+      "Quais componentes estão incluídos nos registros do software?",
+      "Quais são os componentes que constam no software?",
+      "Me mostre a lista de componentes cadastrados."
+    ]
+  },
+  {
+    "question": [
+      "Essa BCS é formada de quais componentes?",
+      "Quais componentes fazem parte dessa BCS?",
+      "Quais são os componentes dessa BCS?",
+      "De quais componentes essa BCS é composta?",
+      "Quais componentes compõem essa BCS?",
+      "O que compõe essa BCS?",
+      "Quais são os componentes que formam essa BCS?",
+      "Essa BCS é composta por quais componentes?",
+      "Quais componentes estão presentes nessa BCS?",
+      "Que componentes fazem parte da BCS atual?",
+      "Quais são os componentes presentes na BCS?",
+      "Como é composta a BCS atual em relação aos componentes?",
+      "Quais componentes integram essa BCS?",
+      "Quais componentes estão incluídos nessa BCS?",
+      "Quais são os componentes que compõem essa BCS?"
+    ]
+  },
+  {
+    "question": [
+      "Qual a organização dos componentes nas BCS deste projeto?",
+      "Quais componentes fazem parte de cada BCS deste projeto?",
+      "Como os componentes estão distribuídos entre as BCS deste projeto?",
+      "Qual é a composição de cada BCS deste projeto?",
+      "Quais são os componentes de cada BCS do projeto?",
+      "Como cada BCS deste projeto é composta?",
+      "De quais componentes cada BCS deste projeto é formada?",
+      "Quais componentes compõem cada uma das BCS deste projeto?",
+      "Como estão organizados os componentes em cada BCS?",
+      "Quais componentes pertencem a cada BCS do projeto?",
+      "Como os componentes estão organizados nas diferentes BCS do projeto?",
+      "Que componentes estão associados a cada BCS deste projeto?",
+      "Quais são as partes que compõem cada BCS do projeto?",
+      "Como é formada cada BCS presente neste projeto?",
+      "Para cada BCS do projeto, quais componentes fazem parte dela?"
+    ]
+  },
+  {
+    "question": [
+      "Mostre a quantidade de falhas de [FAULT] em cada altura nos componentes de tipo [COMPONENT].",
+      "Quantas falhas de [FAULT] ocorrem em cada altura nos componentes do tipo [COMPONENT]?",
+      "Apresente o número de ocorrências da falha de [FAULT] por altura para componentes do tipo [COMPONENT].",
+      "Conte as ocorrências de [FAULT] em cada altura dos componentes de tipo [COMPONENT].",
+      "Qual é a quantidade de falhas de [FAULT] para cada altura dos componentes do tipo [COMPONENT]?",
+      "Agrupe as falhas de [FAULT] por altura do sensor nos componentes do tipo [COMPONENT] e mostre suas quantidades.",
+      "Como se distribuem as ocorrências da falha de [FAULT] entre as diferentes alturas dos sensores dos componentes do tipo [COMPONENT]?",
+      "Mostre quantas vezes a falha de [FAULT] foi registrada em cada altura dos sensores associados a componentes do tipo [COMPONENT].",
+      "Liste a quantidade de ocorrências de [FAULT] por altura do sensor, considerando apenas componentes do tipo [COMPONENT].",
+      "Para componentes do tipo [COMPONENT], apresente a contagem da falha de [FAULT] em cada altura de sensor.",
+      "Qual é a distribuição quantitativa da falha de [FAULT] por altura nos sensores dos componentes do tipo [COMPONENT]?",
+      "Compare as quantidades de falhas de [FAULT] registradas nas diferentes alturas dos sensores de componentes do tipo [COMPONENT].",
+      "Em cada altura de sensor, quantas ocorrências de [FAULT] existem nos componentes classificados como [COMPONENT]?",
+      "Determine o total de registros da falha de [FAULT] em cada altura para componentes do tipo [COMPONENT].",
+      "Mostre a frequência da falha de [FAULT] por altura do sensor para componentes do tipo [COMPONENT].",
+      "Apresente a contagem de falhas do tipo [FAULT] para cada nível de altura dos sensores instalados em componentes do tipo [COMPONENT].",
+      "Quantos registros associados à falha de [FAULT] existem em cada altura de sensor nos componentes do tipo [COMPONENT]?",
+      "Para o componente do tipo [COMPONENT], mostre a quantidade de ocorrências da falha de [FAULT] em cada altura dos sensores."
+    ]
+  },
+  {
+    "question": [
+      "Qual a quantidade de falhas de [FAULT] por vazão?",
+      "Quantas falhas de [FAULT] existem para cada vazão?",
+      "Mostre a quantidade de falhas de [FAULT] para cada valor de vazão.",
+      "Qual é o número de ocorrências da falha de [FAULT] em cada vazão?",
+      "Conte as falhas de [FAULT] agrupadas por vazão.",
+      "Apresente a contagem de falhas de [FAULT] por valor de vazão.",
+      "Quantas ocorrências de [FAULT] foram registradas em cada vazão?",
+      "Como se distribui a quantidade de falhas de [FAULT] entre as vazões?",
+      "Liste o total de falhas de [FAULT] para cada vazão registrada.",
+      "Mostre quantas ocorrências da falha de [FAULT] existem por vazão.",
+      "Qual é o total de registros da falha de [FAULT] para cada vazão?",
+      "Apresente o número de falhas classificadas como [FAULT] por vazão.",
+      "Determine a quantidade de ocorrências de [FAULT] em cada condição de vazão.",
+      "Quantas vezes a falha de [FAULT] ocorre para cada valor de vazão?",
+      "Exiba a contagem da falha de [FAULT] agrupada pelos valores de vazão.",
+      "Qual é a distribuição das ocorrências de [FAULT] por vazão?",
+      "Calcule o número de falhas de [FAULT] para cada vazão.",
+      "Mostre o total de ocorrências classificadas como [FAULT] por vazão.",
+      "Para cada vazão, informe a quantidade de falhas do tipo [FAULT].",
+      "Agrupe as falhas de [FAULT] por vazão e apresente suas quantidades."
+    ]
+  },
+  {
+    "question": [
+      "Quantos casos de [FAULT] aparecem em cada frequência de rotação?",
+      "Qual é a quantidade de ocorrências de [FAULT] para cada rotação?",
+      "Quantos sinais associados à falha [FAULT] existem em cada rotação?",
+      "Mostre a quantidade de casos da falha [FAULT] por frequência de rotação.",
+      "Qual é o número de ocorrências da falha [FAULT] em cada valor de rotação?",
+      "Conte os sinais classificados com [FAULT] para cada rotação.",
+      "Quantas vezes a falha [FAULT] foi registrada em cada frequência de rotação?",
+      "Apresente a contagem de sinais com a falha [FAULT] agrupada por rotação.",
+      "Como se distribuem os casos de [FAULT] entre as diferentes rotações?",
+      "Mostre quantos sinais apresentam a falha [FAULT] para cada valor de rotação.",
+      "Qual é o total de ocorrências de [FAULT] em cada rotação registrada?",
+      "Liste a quantidade de sinais relacionados à falha [FAULT] por rotação.",
+      "Determine o número de casos da falha [FAULT] para cada frequência de rotação.",
+      "Quantos registros de sinais associados a [FAULT] existem em cada rotação?",
+      "Apresente o total de sinais classificados como [FAULT] para cada rotação.",
+      "Qual é a distribuição quantitativa da falha [FAULT] por frequência de rotação?",
+      "Agrupe os casos de [FAULT] pela rotação e mostre a quantidade em cada grupo.",
+      "Informe quantas ocorrências da falha [FAULT] estão associadas a cada rotação.",
+      "Calcule a quantidade de sinais associados à falha [FAULT] para cada valor de rotação.",
+      "Para cada rotação, mostre o número de sinais que apresentam a falha [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "A falha de [FAULT] acontece mais em que rotação?",
+      "Em qual frequência de rotação ocorre mais a falha de [FAULT]?",
+      "Qual rotação tem mais casos de [FAULT]?",
+      "Em que rotação aparecem mais sinais classificados como [FAULT]?",
+      "Qual frequência de rotação apresenta mais ocorrências de [FAULT]?",
+      "Em qual rotação a falha de [FAULT] aparece com maior frequência?",
+      "Onde a falha de [FAULT] ocorre mais, considerando a rotação?",
+      "Qual é a rotação com maior quantidade de casos de [FAULT]?",
+      "Em qual frequência de rotação foram registrados mais casos de [FAULT]?",
+      "Qual rotação concentra mais ocorrências de [FAULT]?",
+      "Em que frequência de rotação há mais sinais com [FAULT]?",
+      "Qual frequência de operação tem mais ocorrências de [FAULT]?",
+      "A [FAULT] aparece mais em qual frequência de rotação?",
+      "Qual rotação está associada ao maior número de casos de [FAULT]?",
+      "Em qual rotação encontro mais casos classificados como [FAULT]?",
+      "Qual frequência de rotação tem a maior quantidade de sinais com [FAULT]?",
+      "Em qual condição de rotação a falha de [FAULT] ocorre mais?",
+      "Qual valor de rotação apresenta mais casos da falha de [FAULT]?",
+      "Onde há mais ocorrências de [FAULT] em relação à frequência de rotação?",
+      "Qual rotação possui o maior número de ocorrências de [FAULT]?",
+      "Me diga em qual rotação a classificação de [FAULT] aparece mais.",
+      "Quero saber em qual frequência de rotação ocorre mais [FAULT].",
+      "Verifique qual rotação possui mais casos de [FAULT].",
+      "Confira em qual frequência de rotação há mais ocorrências de [FAULT].",
+      "Identifique a rotação em que a falha de [FAULT] aparece mais."
+    ]
+  },
+  {
+    "question": [
+      "Quando foi feita a última reclassificação neste teste?",
+      "Qual foi a data da última reclassificação deste teste?",
+      "Quando este teste foi reclassificado pela última vez?",
+      "Qual é a reclassificação mais recente deste teste?",
+      "Em que data ocorreu a última reclassificação deste teste?",
+      "Quando aconteceu a reclassificação mais recente deste teste?",
+      "Qual foi a última vez que este teste foi reclassificado?",
+      "Quando foi realizada a reclassificação mais recente deste teste?",
+      "Qual foi a data da reclassificação mais recente deste teste?",
+      "Este teste foi reclassificado pela última vez quando?",
+      "Quando aconteceu a última reclassificação do teste?",
+      "Qual foi a reclassificação mais recente registrada neste teste?",
+      "Quando foi registrada a última reclassificação deste teste?",
+      "Me diga quando este teste foi reclassificado pela última vez.",
+      "Quero saber quando ocorreu a última reclassificação deste teste.",
+      "Pode verificar quando foi feita a última reclassificação deste teste?",
+      "Confira a data da última reclassificação deste teste.",
+      "Qual a data mais recente de reclassificação deste teste?"
+    ]
+  },
+  {
+    "question": [
+      "Houve alguma classificação manual desde a última reclassificação deste teste? Se sim, quando?",
+      "Alguém fez alguma alteração na classificação de algum sinal deste teste desde a última reclassificação? Se sim, quando?",
+      "Algum sinal deste teste foi classificado manualmente desde a última reclassificação? Se sim, quando?",
+      "Foi feita alguma classificação manual neste teste depois da última reclassificação? Se sim, quando?",
+      "Alguma classificação manual foi realizada neste teste desde a última reclassificação? Se sim, quando?",
+      "Desde a última reclassificação, houve alguma alteração manual na classificação dos sinais deste teste? Se sim, quando?",
+      "Algum sinal teve sua classificação alterada manualmente desde a última reclassificação deste teste? Se sim, quando?",
+      "Depois da última reclassificação, alguém alterou manualmente a classificação de algum sinal deste teste? Se sim, quando?",
+      "Existe alguma classificação manual registrada neste teste desde a última reclassificação? Se sim, quando?",
+      "Há algum sinal deste teste que tenha recebido uma classificação manual após a última reclassificação? Se sim, quando?",
+      "Desde a última reclassificação deste teste, alguma classificação foi alterada manualmente? Se sim, quando?",
+      "A classificação de algum sinal deste teste foi modificada manualmente depois da última reclassificação? Se sim, quando?",
+      "Verifique se houve alguma alteração manual nas classificações deste teste desde a última reclassificação. Se sim, quando?",
+      "Confira se algum sinal deste teste foi reclassificado manualmente após a última reclassificação. Se sim, quando?",
+      "Quero saber se alguém alterou manualmente alguma classificação deste teste desde a última reclassificação. Se sim, quando?",
+      "Tem alguma classificação manual feita neste teste depois da última reclassificação? Se sim, quando?",
+      "Foram feitas alterações manuais nas classificações dos sinais deste teste desde a última reclassificação? Se sim, quando?",
+      "Algum sinal deste teste foi alterado manualmente após a última reclassificação? Se sim, quando?",
+      "Há registros de classificação manual neste teste posteriores à última reclassificação? Se sim, quando?",
+      "Desde a última reclassificação, existem alterações manuais na classificação dos sinais deste teste? Se sim, quando?",
+      "Aconteceu alguma mudança manual na classificação dos sinais deste teste desde a última reclassificação? Se sim, quando?",
+      "Algum usuário alterou manualmente a classificação de um sinal deste teste após a última reclassificação? Se sim, quando?",
+      "Depois da última reclassificação deste teste, houve alguma intervenção manual nas classificações? Se sim, quando?",
+      "Pode verificar se algum sinal teve sua classificação alterada manualmente desde a última reclassificação? Se sim, quando?",
+      "Confira se existe alguma classificação manual posterior à última reclassificação deste teste Se sim, quando?"
+    ]
+  },
+  {
+    "question": [
+      "Qual é o tipo de componente que apresenta mais falhas de [FAULT]?",
+      "Em qual tipo de componente ocorrem mais falhas de [FAULT]?",
+      "Qual tipo de componente tem mais ocorrências de [FAULT]?",
+      "Em que tipo de componente aparecem mais casos de [FAULT]?",
+      "Qual tipo de componente possui a maior quantidade de falhas de [FAULT]?",
+      "Qual é o tipo de componente com mais casos de [FAULT]?",
+      "Em qual tipo de componente há mais ocorrências da falha de [FAULT]?",
+      "Qual tipo de componente concentra mais falhas de [FAULT]?",
+      "Em qual tipo de componente a falha de [FAULT] aparece mais?",
+      "Qual tipo de componente apresenta a maior quantidade de casos classificados como [FAULT]?",
+      "Onde aparecem mais falhas de [FAULT] considerando o tipo de componente?",
+      "Qual tipo de componente tem a maior quantidade de ocorrências de [FAULT]?",
+      "Em qual tipo de componente foram registrados mais casos de [FAULT]?",
+      "Qual tipo de componente está associado ao maior número de falhas de [FAULT]?",
+      "Qual tipo de componente apresenta mais ocorrências da classificação de [FAULT]?",
+      "Em qual categoria de componente há mais falhas do tipo [FAULT]?",
+      "Qual categoria de componente possui mais casos de [FAULT]?",
+      "Qual tipo de componente tem mais sinais classificados como [FAULT]?",
+      "Em que tipo de componente existem mais sinais classificados como [FAULT]?",
+      "Qual tipo de componente apresenta mais sinais com classificação de [FAULT]?",
+      "A falha de [FAULT] ocorre mais em qual tipo de componente?",
+      "Em qual tipo de componente a ocorrência de itens com [FAULT] é maior?",
+      "Qual tipo de componente possui mais registros de [FAULT]?",
+      "Entre os tipos de componentes, qual apresenta mais casos de [FAULT]?",
+      "Quero saber qual tipo de componente apresenta mais falhas de [FAULT].",
+      "Quero identificar o tipo de componente com mais ocorrências de [FAULT].",
+      "Verifique qual tipo de componente tem mais casos de [FAULT].",
+      "Confira em qual tipo de componente há mais falhas de [FAULT].",
+      "Pode verificar qual tipo de componente apresenta a maior quantidade de itens com [FAULT]?",
+      "Identifique o tipo de componente que possui mais ocorrências de [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "Qual é o componente com o maior número de falhas nesta BCS?",
+      "Qual componente apresenta mais falhas nesta BCS?",
+      "Nesta BCS, qual componente tem mais falhas?",
+      "Em qual componente desta BCS ocorrem mais falhas?",
+      "Qual componente possui a maior quantidade de falhas nesta BCS?",
+      "Qual é o componente desta BCS com mais ocorrências de falhas?",
+      "Nesta BCS, qual componente concentra mais falhas?",
+      "Qual componente tem o maior número de ocorrências de falhas nesta BCS?",
+      "Entre os componentes desta BCS, qual apresenta mais falhas?",
+      "Qual componente desta BCS apresenta a maior quantidade de falhas?",
+      "Em qual componente há mais falhas nesta BCS?",
+      "Qual componente possui mais registros de falhas nesta BCS?",
+      "Qual componente está associado ao maior número de falhas nesta BCS?",
+      "Qual componente apresenta mais ocorrências de falha na BCS?",
+      "Qual componente dessa BCS tem mais casos de falha?",
+      "Qual componente tem a maior quantidade de ocorrências de falha nesta BCS?",
+      "Entre os componentes desta BCS, qual tem mais casos de falha?",
+      "Qual componente apresenta o maior número de casos de falha nesta BCS?",
+      "Nesta BCS, qual componente possui mais registros de falha?",
+      "Qual componente tem mais falhas registradas nesta BCS?",
+      "Em qual componente desta BCS foram registradas mais falhas?",
+      "Qual componente apresenta a maior quantidade de falhas registradas nesta BCS?",
+      "Quero saber qual componente tem mais falhas nesta BCS.",
+      "Quero identificar o componente com maior número de falhas nesta BCS.",
+      "Verifique qual componente apresenta mais falhas nesta BCS.",
+      "Confira qual componente possui mais falhas nesta BCS.",
+      "Pode verificar em qual componente desta BCS há mais falhas?",
+      "Identifique o componente que apresenta mais falhas nesta BCS.",
+      "Qual componente é o que mais apresenta falhas nesta BCS?"
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal com mais de uma falha associada? Quais foram as falhas?",
+      "Tem algum sinal associado a mais de uma falha? Quais foram as falhas?",
+      "Há algum sinal que tenha mais de uma falha associada? Quais foram as falhas?",
+      "Algum sinal apresenta mais de uma falha? Quais foram as falhas?",
+      "Existe algum sinal com múltiplas falhas associadas? Quais foram as falhas?",
+      "Algum sinal está associado a mais de uma falha? Quais foram as falhas?",
+      "Tem algum sinal que possua duas ou mais falhas associadas? Quais foram as falhas?",
+      "Há sinais associados a mais de uma falha? Quais foram as falhas?",
+      "Algum dos sinais possui mais de uma falha associada? Quais foram as falhas?",
+      "Existe algum sinal que tenha sido associado a diferentes falhas? Quais foram as falhas?",
+      "Algum sinal possui múltiplas classificações de falha? Quais foram as falhas?",
+      "Há algum sinal com duas ou mais falhas relacionadas a ele? Quais foram as falhas?",
+      "Existe algum sinal relacionado a mais de uma falha? Quais foram as falhas?",
+      "Algum sinal apresenta mais de uma classificação de falha? Quais foram as falhas?",
+      "Tem algum sinal que esteja relacionado a múltiplas falhas? Quais foram as falhas?",
+      "Há algum sinal com mais de uma ocorrência de falha associada? Quais foram as falhas?",
+      "Algum sinal foi associado a mais de um tipo de falha? Quais foram as falhas?",
+      "Existe algum sinal que tenha mais de um tipo de falha associado? Quais foram as falhas?",
+      "Algum sinal possui mais de uma falha registrada? Quais foram as falhas?",
+      "Há algum sinal que tenha várias falhas associadas? Quais foram as falhas?",
+      "Existe algum sinal com múltiplas falhas registradas? Quais foram as falhas?",
+      "Tem algum sinal com mais de uma falha relacionada? Quais foram as falhas?",
+      "Algum sinal está relacionado com duas ou mais falhas? Quais foram as falhas?",
+      "Há sinais que apresentam mais de uma falha associada a eles? Quais foram as falhas?",
+      "Existe algum sinal que tenha duas ou mais falhas associadas? Quais foram as falhas?",
+      "Quero saber se existe algum sinal com mais de uma falha associada. Quais foram as falhas?",
+      "Quero verificar se algum sinal possui mais de uma falha. Quais foram as falhas?",
+      "Verifique se existe algum sinal associado a múltiplas falhas. Quais foram as falhas?",
+      "Confira se algum sinal tem mais de uma falha associada. Quais foram as falhas?",
+      "Pode verificar se há algum sinal com mais de uma falha registrada Quais foram as falhas?"
+    ]
+  },
+  {
+    "question": [
+      "Alguma falha severa foi encontrada em uma análise neste projeto?",
+      "Foi identificada alguma falha severa em análises realizadas neste projeto?",
+      "Há registro de alguma análise que tenha apontado falhas severas neste projeto?",
+      "Alguma análise do projeto detectou falhas classificadas como severas?",
+      "Existem falhas severas identificadas nas análises deste projeto?",
+      "As análises realizadas neste projeto encontraram alguma falha severa?",
+      "Foi encontrada alguma falha de severidade alta nas análises deste projeto?",
+      "Alguma das análises do projeto registrou uma falha severa?",
+      "Há alguma falha severa apontada por análises feitas neste projeto?",
+      "O projeto possui análises com registro de falhas severas?",
+      "Alguma análise associada a este projeto apresentou falhas severas?",
+      "Foram detectadas falhas severas durante as análises do projeto?",
+      "Existe alguma ocorrência de falha severa nas análises deste projeto?",
+      "As análises do projeto indicam a existência de falhas severas?",
+      "Algum resultado de análise deste projeto aponta para uma falha severa?",
+      "É possível encontrar alguma análise deste projeto com falha severa registrada?",
+      "O histórico de análises deste projeto contém alguma falha severa?",
+      "Alguma falha severa consta nos resultados das análises realizadas neste projeto?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os tipos de falha mais frequentes em componentes do tipo [COMPONENT]?",
+      "Quais falhas aparecem com mais frequência em componentes do tipo [COMPONENT]?",
+      "Quais são as falhas mais comuns em componentes do tipo [COMPONENT]?",
+      "Em componentes do tipo [COMPONENT], quais falhas ocorrem mais?",
+      "Quais tipos de falha têm mais ocorrências em componentes do tipo [COMPONENT]?",
+      "Quais falhas são mais recorrentes nos componentes do tipo [COMPONENT]?",
+      "Entre as falhas nos componentes do tipo [COMPONENT], quais são as mais frequentes?",
+      "Quais falhas aparecem mais nos componentes do tipo [COMPONENT]?",
+      "Quais são os tipos de falha que mais ocorrem nos componentes do tipo [COMPONENT]?",
+      "Em componentes do tipo [COMPONENT], quais são os tipos de falha mais comuns?",
+      "Quais falhas apresentam maior quantidade de ocorrências em componentes do tipo [COMPONENT]?",
+      "Quais tipos de falha possuem mais registros nos componentes do tipo [COMPONENT]?",
+      "Quais falhas têm a maior frequência entre os componentes do tipo [COMPONENT]?",
+      "Quais são as principais falhas encontradas em componentes do tipo [COMPONENT]?",
+      "Que tipos de falha são mais encontrados em componentes do tipo [COMPONENT]?",
+      "Quais falhas são mais recorrentes entre os componentes do tipo [COMPONENT]?",
+      "Quais tipos de falha aparecem mais nos componentes do tipo [COMPONENT]?",
+      "Qual é a distribuição das falhas nos componentes do tipo [COMPONENT]?",
+      "Quais falhas apresentam mais ocorrências nos componentes do tipo [COMPONENT]?",
+      "Quais tipos de falha têm maior ocorrência em componentes do tipo [COMPONENT]?",
+      "Quais falhas são mais frequentes entre os componentes do tipo [COMPONENT]?",
+      "Quais são os tipos de falha com maior número de ocorrências em componentes do tipo [COMPONENT]?",
+      "Quais falhas predominam nos componentes do tipo [COMPONENT]?",
+      "Quais tipos de falha são mais comuns entre os componentes do tipo [COMPONENT]?",
+      "Quero saber quais falhas são mais frequentes em componentes do tipo [COMPONENT].",
+      "Quero identificar os tipos de falha mais comuns nos componentes do tipo [COMPONENT].",
+      "Verifique quais falhas aparecem com mais frequência em componentes do tipo [COMPONENT].",
+      "Confira quais são as falhas mais recorrentes nos componentes do tipo [COMPONENT].",
+      "Pode verificar quais tipos de falha têm mais ocorrências em componentes do tipo [COMPONENT]?"
+    ]
+  },
+  {
+    "question": [
+      "Qual é a frequência de sinais com falha nesta BCS?",
+      "Qual é o número de sinais com falha registradas nesta BCS? Separe-as por tipo.",
+      "Separe as ocorrências de sinais com falha nesta BCS por tipo.",
+      "Quantos sinais com falha de cada tipo existem nesta BCS?",
+      "Qual é a frequência de sinais com falha separado por cada tipo de falha nesta BCS?",
+      "Como estão distribuídas os sinais com falha por tipo nesta BCS?",
+      "Mostre a quantidade de sinais com falha de cada tipo nesta BCS.",
+      "Conte as ocorrências de cada tipo de falha nesta BCS, contando os sinais.",
+      "Agrupe as falhas desta BCS por tipo e mostre a quantidade de sinais.",
+      "Quero a quantidade de sinais com falha nesta BCS agrupada por tipo.",
+      "Mostre quantas ocorrências de cada tipo de falha foram identificadas nesta BCS, contando os sinais.",
+      "Qual é a distribuição das ocorrências de sinais com falha por tipo nesta BCS?"
+    ]
+  },
+  {
+    "question": [
+      "Quais BCSs apresentam falhas severas?",
+      "Quais BCSs possuem registros de falhas severas?",
+      "Identifique as BCSs que apresentam falhas severas.",
+      "Em quais BCSs foram identificadas falhas severas?",
+      "Quais unidades BCS possuem falhas classificadas como severas?",
+      "Liste as BCSs associadas a falhas severas.",
+      "Quais BCSs apresentam ocorrências de falhas severas?",
+      "Em quais BCSs existem análises com falhas severas?",
+      "Quais BCSs possuem análises associadas a falhas severas?",
+      "Mostre as BCSs em que foram detectadas falhas severas.",
+      "Quais são as BCSs que registraram falhas severas?",
+      "Identifique quais BCSs têm falhas severas registradas nas análises.",
+      "Quais BCSs estão associadas a análises que apresentam falhas severas?",
+      "Liste as BCSs que possuem pelo menos uma análise com falha severa.",
+      "Quais BCSs foram identificadas com ocorrências de falhas severas?",
+      "Em quais sistemas BCS foram encontradas falhas severas?",
+      "Quais BCSs apresentam evidências de falhas severas nas análises?",
+      "Mostre quais BCSs têm análises classificadas com falhas severas.",
+      "Quais BCSs possuem registros de análise relacionados a falhas severas?",
+      "Quais BCSs apresentam falhas severas e quantas análises distintas estão associadas a cada uma?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sensor com mais de uma ocorrência de itens com [FAULT]?",
+      "Existe algum sensor que apresentou [FAULT] mais de uma vez?",
+      "Há algum sensor com duas ou mais ocorrências de [FAULT]?",
+      "Algum sensor registrou [FAULT] mais de uma vez?",
+      "Tem algum sensor que tenha apresentado a falha de [FAULT] em mais de uma ocorrência?",
+      "Existe algum sensor com múltiplos registros de [FAULT]?",
+      "Algum sensor teve [FAULT] em mais de um registro?",
+      "Há algum sensor que apresentou a falha de [FAULT] repetidamente?",
+      "Tem algum sensor com mais de um registro da falha de [FAULT]?",
+      "Algum sensor possui duas ou mais ocorrências de [FAULT]?",
+      "Existe algum sensor em que a falha de [FAULT] tenha ocorrido mais de uma vez?",
+      "Quais sensores apresentam mais de uma ocorrência de itens com [FAULT]?",
+      "Tem algum sensor com ocorrências repetidas de [FAULT]?",
+      "Algum sensor registrou a falha de [FAULT] em múltiplas ocorrências?",
+      "Existe algum sensor que tenha registrado [FAULT] duas vezes ou mais?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os valores geralmente usados nas janelas de frequência?",
+      "Quais valores são mais comuns nas janelas de frequência?",
+      "Quais são os valores mais utilizados para definir as janelas de frequência?",
+      "Quais valores costumam ser usados nas janelas de frequência?",
+      "Quais são os valores mais frequentes para as janelas de frequência?",
+      "Quais valores normalmente aparecem nas janelas de frequência?",
+      "Quais valores são mais usados como janela de frequência?",
+      "Quais são os valores mais recorrentes nas janelas de frequência?",
+      "Quais valores costumam ser definidos para as janelas de frequência?",
+      "Quais valores de janela de frequência são utilizados com mais frequência?",
+      "Quais são os valores mais comuns utilizados para configurar as janelas de frequência?",
+      "Quais valores aparecem mais vezes como janelas de frequência?",
+      "Quais valores geralmente são definidos para a janela de frequência?",
+      "Quais são os valores típicos utilizados nas janelas de frequência?",
+      "Quais valores de frequência são normalmente usados para definir as janelas?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os valores comuns de sensibilidade de um sensor?",
+      "Quais valores de sensibilidade são mais comuns nos sensores?",
+      "Quais são os valores mais utilizados para a sensibilidade dos sensores?",
+      "Quais valores de sensibilidade os sensores geralmente apresentam?",
+      "Quais são os valores usuais de sensibilidade dos sensores?",
+      "Quais valores costumam ser usados para a sensibilidade dos sensores?",
+      "Quais são os valores mais frequentes de sensibilidade dos sensores?",
+      "Quais valores normalmente são encontrados para a sensibilidade dos sensores?",
+      "Quais são os valores típicos de sensibilidade de um sensor?",
+      "Quais valores de sensibilidade são geralmente utilizados nos sensores?",
+      "Quais são os valores mais recorrentes de sensibilidade dos sensores?",
+      "Quais valores são normalmente definidos para a sensibilidade dos sensores?",
+      "Quais valores de sensibilidade aparecem com maior frequência nos sensores?",
+      "Quais são os valores geralmente adotados para a sensibilidade dos sensores?",
+      "Quais valores de sensibilidade são mais utilizados na configuração dos sensores?"
+    ]
+  },
+  {
+    "question": [
+      "Qual é a janela de frequência utilizada para encontrar o pico neste sinal?",
+      "Qual intervalo de frequência foi utilizado para localizar o pico do sinal?",
+      "Em qual faixa de frequência o pico deste sinal está sendo procurado?",
+      "Qual faixa de frequência está sendo considerada para identificar o pico nesse sinal?",
+      "Qual é o intervalo de frequência usado na busca pelo pico do sinal?",
+      "Em que intervalo de frequência o pico está sendo identificado nesse sinal?",
+      "Qual janela de frequência está sendo utilizada na análise deste sinal?",
+      "Qual faixa de frequência foi definida para encontrar o pico nesse sinal?",
+      "Qual é a faixa de frequência analisada para localizar o pico nesse sinal?",
+      "Em qual janela de frequência a busca pelo pico está sendo realizada aqui nesse sinal?",
+      "Qual é o intervalo da janela de frequência utilizada na detecção do pico do sinal?",
+      "Qual faixa espectral está sendo utilizada para determinar o pico do sinal?",
+      "Qual é o range de frequência considerado na identificação do pico nesse sinal?",
+      "Qual intervalo de frequência está configurado para a detecção do pico nesse sinal?",
+      "Qual janela espectral está sendo utilizada para encontrar o pico nesse sinal?",
+      "Quais são os limites inferior e superior da janela de frequência utilizada nesse sinal?",
+      "Qual é o intervalo entre as frequências mínima e máxima considerado na busca pelo pico nesse sinal?",
+      "Qual janela de frequência está configurada para a análise do sinal atual?",
+      "Qual a faixa de frequência do pico nesse sinal?",
+      "Qual a janela de frequência usada nesse sinal?",
+      "Em qual faixa o pico está sendo buscado nesse sinal?",
+      "Qual faixa foi usada para encontrar o pico nesse sinal?",
+      "Qual o range de frequência utilizado pra encontrar o pico nesse sinal?"
+    ]
+  },
+  {
+    "question": [
+      "Qual algoritmo foi usado para classificar esses sinais desse teste?",
+      "Qual classificador foi utilizado na classificação desses sinais desse teste?",
+      "Qual algoritmo de classificação foi usado neste teste?",
+      "Qual algoritmo foi utilizado na última reclassificação do teste?",
+      "Qual método de classificação foi aplicado a estes sinais desse teste?",
+      "Qual modelo foi utilizado para classificar os sinais desse teste?",
+      "Qual algoritmo está sendo usado para classificar os sinais deste teste?",
+      "Qual foi o algoritmo utilizado na reclassificação mais recente desse teste?",
+      "Qual modelo de classificação foi utilizado neste teste?",
+      "Qual algoritmo de classificação foi aplicado aos sinais desse teste na última reclassificação?",
+      "Qual classificador está configurado para este teste?",
+      "Qual foi o classificador utilizado na última análise desse teste?",
+      "Que algoritmo foi usado para fazer a classificação desses sinais desse teste?",
+      "Qual técnica de classificação foi utilizada neste teste?",
+      "Qual algoritmo foi selecionado para a última reclassificação desse teste?",
+      "Qual classificador foi selecionado para classificar esses sinais desse teste?",
+      "Qual algoritmo está por trás da classificação desses sinais desse teste?",
+      "Qual algoritmo foi empregado para reclassificar os sinais desse teste?",
+      "Qual classificador foi utilizado na reclassificação mais recente do teste?"
+    ]
+  },
+  {
+    "question": [
+      "Algum sinal foi importado no domínio do tempo?",
+      "Existe algum sinal armazenado no domínio do tempo?",
+      "Há sinais disponíveis no domínio temporal?",
+      "Foi carregado algum sinal no domínio do tempo?",
+      "Algum teste possui algum sinal no domínio do tempo?",
+      "Tem algum sinal registrado no domínio temporal?",
+      "Há algum sinal disponível em função do tempo?",
+      "Algum dado de sinal foi armazenado no domínio do tempo?",
+      "Foi importado algum sinal temporal?",
+      "Existe algum sinal de tempo armazenado atualmente?",
+      "Há algum sinal presente na representação temporal?"
+    ]
+  },
+  {
+    "question": [
+      "Qual a taxa de amostragem deste sinal?",
+      "Qual é a taxa de amostragem utilizada neste sinal?",
+      "Em qual taxa este sinal foi amostrado?",
+      "A que taxa o sinal foi coletado?",
+      "Qual é o intervalo de amostragem deste sinal?",
+      "Qual taxa de amostragem foi configurada para o sinal?",
+      "Qual é a taxa de coleta dos dados deste sinal?",
+      "Qual foi a taxa usada para adquirir este sinal?",
+      "Qual é a taxa usada na amostragem do sinal?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os valores das linhas de alarme?",
+      "Quais valores estão configurados nas linhas de alarme?",
+      "Quais são os níveis definidos para as linhas de alarme?",
+      "Quais valores foram definidos para os alarmes?",
+      "Quais são os limites das linhas de alarme?",
+      "Quais valores estão sendo utilizados como referência para os alarmes?",
+      "Quais são os valores configurados para cada linha de alarme?",
+      "Quais níveis de alarme estão configurados?",
+      "Quais são os valores atuais das linhas de alarme?",
+      "Quais valores foram atribuídos às linhas de alarme?",
+      "Quais são os limites configurados para os alarmes?"
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal com o pico em [PEAK] acima de [PEAK_VALUE] que foi classificado como [FAULT]?",
+      "Existe algum sinal com pico em [PEAK] acima de [PEAK_VALUE] classificado como [FAULT]?",
+      "Há algum sinal cujo pico em [PEAK] esteja acima de [PEAK_VALUE] e tenha sido classificado como [FAULT]?",
+      "Foi identificado algum sinal com pico [PEAK] acima de [PEAK_VALUE] associado à falha de [FAULT]?",
+      "Algum sinal apresenta pico em [PEAK] acima de [PEAK_VALUE] e foi classificado como [FAULT]?",
+      "Existem sinais com pico em [PEAK] elevado acima de [PEAK_VALUE] classificados como [FAULT]?",
+      "Há sinais com amplitude em [PEAK] acima de [PEAK_VALUE] que foram classificados como [FAULT]?",
+      "Foi encontrado algum sinal com pico em [PEAK] acima de [PEAK_VALUE] relacionado à falha de [FAULT]?",
+      "Algum dos sinais classificados como [FAULT] apresenta pico em [PEAK] acima de [PEAK_VALUE]?",
+      "Entre os sinais classificados como [FAULT], existe algum com pico [PEAK] acima de [PEAK_VALUE]?",
+      "A falha de [FAULT] está associada a algum sinal com pico em [PEAK] acima de [PEAK_VALUE]?",
+      "Há algum caso classificado como [FAULT] em que o pico em [PEAK] esteja acima de [PEAK_VALUE]?",
+      "Algum sinal com pico [PEAK] acima de [PEAK_VALUE] recebeu a classificação de [FAULT]?",
+      "Quais sinais com pico em [PEAK] acima de [PEAK_VALUE] foram classificados como [FAULT]?",
+      "Existe algum registro classificado como [FAULT] que apresente pico [PEAK] acima de [PEAK_VALUE]?",
+      "Foi atribuída a classificação de [FAULT] a algum sinal com pico em [PEAK] acima de [PEAK_VALUE]?",
+      "Há registros de [FAULT] associados a sinais com pico [PEAK] acima de [PEAK_VALUE]?",
+      "Verifique se há sinais com pico [PEAK] acima de [PEAK_VALUE] classificados como [FAULT].",
+      "Identifique sinais com pico em [PEAK] acima de [PEAK_VALUE] associados à falha de [FAULT].",
+      "Verifique a ocorrência de itens com [FAULT] em sinais com pico [PEAK] acima de [PEAK_VALUE].",
+      "Verifique se existem sinais com pico [PEAK] acima de [PEAK_VALUE] classificados como [FAULT].",
+      "Busque sinais com pico em [PEAK] acima de [PEAK_VALUE] cuja falha seja [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal com o pico em [PEAK] maior que [PEAK_VALUE] neste teste?",
+      "Há algum sinal neste teste cujo pico em [PEAK] esteja maior que [PEAK_VALUE]?",
+      "Foi identificado algum sinal neste teste com pico [PEAK] maior que [PEAK_VALUE]?",
+      "Algum sinal apresenta pico em [PEAK] acima de [PEAK_VALUE] neste teste?",
+      "Existem sinais com pico em [PEAK] elevado acima de [PEAK_VALUE] neste teste?",
+      "Há sinais com amplitude em [PEAK] acima de [PEAK_VALUE] que foram neste teste?",
+      "Foi encontrado algum sinal com pico em [PEAK] acima de [PEAK_VALUE] neste teste?",
+      "Algum dos sinais deste teste apresenta pico em [PEAK] maior que [PEAK_VALUE]?",
+      "Entre os sinais deste teste, existe algum com pico [PEAK] maior que [PEAK_VALUE]?",
+      "Neste teste há algum sinal com pico em [PEAK] maior que [PEAK_VALUE]?",
+      "Há algum caso de sinal em que o pico em [PEAK] esteja maior que [PEAK_VALUE] neste teste?",
+      "Algum sinal deste teste possui o pico [PEAK] maior que [PEAK_VALUE]?",
+      "Quais são os sinais com pico em [PEAK] acima de [PEAK_VALUE] neste teste?",
+      "Existe algum registro de sinal que apresente pico [PEAK] acima de [PEAK_VALUE] neste teste?",
+      "Neste teste, há registros de sinais com pico [PEAK] acima de [PEAK_VALUE]?",
+      "Verifique se há sinais deste teste com pico [PEAK] maior que [PEAK_VALUE].",
+      "Identifique neste teste os sinais com pico em [PEAK] maior que [PEAK_VALUE].",
+      "Verifique a ocorrência de sinais deste teste com pico [PEAK] acima de [PEAK_VALUE].",
+      "Verifique se existem sinais deste teste com pico [PEAK] acima de [PEAK_VALUE].",
+      "Busque sinais com pico em [PEAK] acima de [PEAK_VALUE] neste teste."
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal com um pico em [PEAK] abaixo de [PEAK_VALUE] que foi classificado como [FAULT]?",
+      "Tem algum sinal classificado como [FAULT] que apresenta um pico em [PEAK] abaixo de [PEAK_VALUE]?",
+      "Há algum sinal com uma amplitude abaixo de [PEAK_VALUE] no pico em [PEAK] que foi classificado como [FAULT]?",
+      "Algum sinal classificado como [FAULT] possui um pico em [PEAK] com amplitude abaixo de [PEAK_VALUE]?",
+      "Verifique se existe algum sinal classificado como [FAULT] com pico [PEAK] abaixo de [PEAK_VALUE].",
+      "Procure sinais classificados como [FAULT] que apresentem amplitude abaixo de [PEAK_VALUE] no pico em [PEAK].",
+      "Quero saber se há algum sinal com [FAULT] que tenha um pico [PEAK] com amplitude abaixo de [PEAK_VALUE].",
+      "Você encontrou algum sinal com [FAULT] e amplitude abaixo de [PEAK_VALUE] no pico [PEAK]?",
+      "Existem casos de [FAULT] em que a amplitude do pico em [PEAK] seja abaixo de [PEAK_VALUE]?",
+      "Verifique se a falha de [FAULT] aparece em algum sinal com pico [PEAK] de amplitude menor que [PEAK_VALUE].",
+      "Busque sinais cuja falha seja [FAULT] e que tenham um pico em [PEAK] com amplitude menor que [PEAK_VALUE].",
+      "Tem algum caso classificado como [FAULT] onde o pico em [PEAK] tenha amplitude menor que [PEAK_VALUE]?",
+      "Quais sinais classificados como [FAULT] apresentam um pico [PEAK] com amplitude menor que [PEAK_VALUE]?",
+      "Identifique sinais com [FAULT] que possuam amplitude menor que [PEAK_VALUE] no pico em [PEAK].",
+      "Confira se há sinais classificados como [FAULT] com amplitude menor que [PEAK_VALUE] no pico [PEAK].",
+      "Há algum registro de [FAULT] associado a um pico em [PEAK] de amplitude menor que [PEAK_VALUE]?",
+      "Algum sinal diagnosticado como [FAULT] apresenta um pico [PEAK] com amplitude menor que [PEAK_VALUE]?",
+      "Verifique se existem sinais com [FAULT] nos quais a amplitude do pico [PEAK] esteja menor que [PEAK_VALUE].",
+      "Encontre sinais classificados como [FAULT] que tenham amplitude menor que [PEAK_VALUE] no pico em [PEAK].",
+      "Há algum sinal com [FAULT] em que o pico [PEAK] esteja menor que [PEAK_VALUE]?",
+      "Procure por [FAULT] em sinais que tenham um pico [PEAK] de amplitude abaixo de [PEAK_VALUE].",
+      "Verifique se algum sinal com pico [PEAK] menor que [PEAK_VALUE] foi associado à falha de [FAULT]."
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal com o pico em [PEAK] menor que [PEAK_VALUE] neste teste?",
+      "Há algum sinal neste teste cujo pico em [PEAK] esteja abaixo de [PEAK_VALUE]?",
+      "Foi identificado algum sinal neste teste com pico [PEAK] abaixo de [PEAK_VALUE]?",
+      "Algum sinal apresenta pico em [PEAK] menor que [PEAK_VALUE] neste teste?",
+      "Existem sinais com pico em [PEAK] elevado abaixo de [PEAK_VALUE] neste teste?",
+      "Há sinais com amplitude em [PEAK] abaixo de [PEAK_VALUE] que foram neste teste?",
+      "Foi encontrado algum sinal com pico em [PEAK] menor que [PEAK_VALUE] neste teste?",
+      "Algum dos sinais deste teste apresenta pico em [PEAK] menor que [PEAK_VALUE]?",
+      "Entre os sinais deste teste, existe algum com pico [PEAK] abaixo de [PEAK_VALUE]?",
+      "Neste teste há algum sinal com pico em [PEAK] abaixo de [PEAK_VALUE]?",
+      "Há algum caso de sinal em que o pico em [PEAK] esteja abaixo de [PEAK_VALUE] neste teste?",
+      "Algum sinal deste teste possui o pico [PEAK] menor que [PEAK_VALUE]?",
+      "Quais são os sinais com pico em [PEAK] menor que [PEAK_VALUE] neste teste?",
+      "Existe algum registro de sinal que apresente pico [PEAK] abaixo de [PEAK_VALUE] neste teste?",
+      "Neste teste, há registros de sinais com pico [PEAK] abaixo de [PEAK_VALUE]?",
+      "Verifique se há sinais deste teste com pico [PEAK] abaixo de [PEAK_VALUE].",
+      "Identifique neste teste os sinais com pico em [PEAK] menor que [PEAK_VALUE].",
+      "Verifique a ocorrência de sinais deste teste com pico [PEAK] menor que [PEAK_VALUE].",
+      "Verifique se existem sinais deste teste com pico [PEAK] menor que [PEAK_VALUE].",
+      "Busque sinais com pico em [PEAK] abaixo de [PEAK_VALUE] neste teste."
+    ]
+  },
+  {
+    "question": [
+      "Neste teste, para a vazão [FLUX] e frequência [ROTATION], tem algum sinal com a amplitude do pico em [PEAK] acima de [PEAK_VALUE]?",
+      "Neste teste, considerando [FLUX] de vazão e [ROTATION] de frequência, existe algum sinal com pico [PEAK] acima de [PEAK_VALUE]?",
+      "Tem algum sinal neste teste, na condição de [FLUX] de vazão e [ROTATION] de frequência, com pico em [PEAK] acima de [PEAK_VALUE]?",
+      "Para [FLUX] de vazão e [ROTATION] de frequência neste teste, algum sinal apresenta amplitude em [PEAK] maior que [PEAK_VALUE]?",
+      "Existe algum sinal neste teste para a condição [FLUX] / [ROTATION] com amplitude do pico [PEAK] acima de [PEAK_VALUE]?",
+      "Neste teste, algum sinal medido com vazão [FLUX] e frequência [ROTATION] tem o pico [PEAK] acima de [PEAK_VALUE]?",
+      "Há algum sinal deste teste na condição de [FLUX] de vazão e [ROTATION] de frequência com o pico em [PEAK] maior que [PEAK_VALUE]?",
+      "Considerando neste teste apenas a condição [FLUX] de vazão com [ROTATION] de frequência, algum sinal apresenta pico [PEAK] acima de [PEAK_VALUE]?",
+      "Para os sinais deste teste medidos em [FLUX] de vazão e [ROTATION] de frequência, existe algum com amplitude do pico [PEAK] acima de [PEAK_VALUE]?",
+      "Neste teste, olhando para a condição [FLUX] de vazão e [ROTATION] de frequência, tem algum sinal cujo pico [PEAK] esteja acima de [PEAK_VALUE]?"
+    ]
+  },
+  {
+    "question": [
+      "Qual é a média e a variação da amplitude do pico em [PEAK] para os sinais deste componente nessa mesma configuração de vazão e rotação?",
+      "Qual é a amplitude média e o desvio padrão do pico [PEAK] neste componente, sob as mesmas condições de vazão e rotação?",
+      "Calcule a média e o desvio padrão da amplitude do pico [PEAK] para este componente na mesma configuração de vazão e rotação.",
+      "Mostre a média e o desvio padrão da amplitude de [PEAK] para os sinais do componente selecionado nessa condição de vazão e rotação.",
+      "Como variam a média e o desvio padrão da amplitude do pico [PEAK] nos sinais deste componente na mesma configuração de vazão e rotação?",
+      "Determine a média e o desvio padrão do pico [PEAK] para este componente, mantendo as mesmas condições de vazão e rotação.",
+      "Qual é a média da amplitude de [PEAK] e quanto ela varia entre os sinais deste componente na configuração de vazão e rotação selecionadas?",
+      "Apresente as estatísticas de média e desvio padrão da amplitude do pico [PEAK] para este componente, considerando a mesma configuração de vazão e rotação.",
+      "Informe a média e o desvio padrão da amplitude de [PEAK] para o componente selecionado na mesma condição operacional de vazão e rotação.",
+      "Qual é o valor médio da amplitude do pico [PEAK] e seu desvio padrão para este componente nessa configuração de vazão e rotação?",
+      "Calcule a média e a dispersão das amplitudes do pico [PEAK] nos sinais deste componente sob as mesmas condições operacionais de vazão e rotação.",
+      "Mostre o valor médio e o desvio padrão de [PEAK] para os sinais do componente selecionado na configuração de vazão e rotação.",
+      "Apresente a amplitude média e o desvio padrão de [PEAK] considerando os sinais deste componente na mesma configuração de vazão e rotação."
+    ]
+  },
+  {
+    "question": [
+      "Calcule a média e a variação da amplitude do pico em [PEAK] destes sinais.",
+      "Qual é a média e a variação da amplitude do pico em [PEAK] destes sinais?",
+      "Qual é a amplitude média e a variação do pico em [PEAK] destes sinais?",
+      "Qual é a média da amplitude do pico [PEAK] e sua variação para estes sinais?",
+      "Qual é a média e a variação do pico em [PEAK] dos sinais selecionados?",
+      "Para estes sinais, qual é a média e a variação da amplitude do pico em [PEAK]?",
+      "Qual é o valor médio e a variação da amplitude em [PEAK] destes sinais?",
+      "Calcule a média da amplitude em [PEAK] e a variação entre estes sinais.",
+      "Me mostre a média e a variação da amplitude do pico em [PEAK] destes sinais.",
+      "Como fica a média e a variação da amplitude do pico [PEAK] para estes sinais?",
+      "Qual é a média da amplitude do pico em [PEAK] considerando estes sinais?",
+      "E qual é a variação da amplitude do pico em [PEAK] entre estes sinais?",
+      "Qual é a amplitude média do pico em [PEAK] e quanto ela varia nestes sinais?",
+      "Calcule o valor médio do pico [PEAK] e sua variação para estes sinais.",
+      "Quero saber a média e a variação da amplitude do pico em [PEAK] destes sinais.",
+      "Quero calcular a média e a variação do pico em [PEAK] destes sinais.",
+      "Verifique a média e a variação da amplitude do pico em [PEAK] destes sinais.",
+      "Confira a média e a variação do pico em [PEAK] para os sinais selecionados.",
+      "Pode calcular a média e a variação da amplitude do pico em [PEAK] destes sinais?",
+      "Pode verificar a média e a variação do pico em [PEAK] destes sinais?",
+      "Entre estes sinais, qual é a média da amplitude do pico [PEAK] e qual é a sua variação?",
+      "Considerando estes sinais, qual é a média e a variação da amplitude em [PEAK]?",
+      "Qual é a média dos valores do pico [PEAK] e a variação entre os sinais selecionados?",
+      "Como varia a amplitude do pico em [PEAK] em torno da média nestes sinais?",
+      "Faça a média e calcule a variação da amplitude do pico em [PEAK] para estes sinais."
+    ]
+  },
+  {
+    "question": [
+      "Qual o sinal com o pico de amplitude em [PEAK] mais próximo deste em outro projeto?",
+      "Qual sinal de outro projeto possui um pico de amplitude em [PEAK] mais próximo deste?",
+      "Em outros projetos, qual sinal tem o valor do pico [PEAK] mais semelhante ao sinal selecionado?",
+      "Qual sinal de outro projeto apresenta a menor diferença no pico de amplitude em [PEAK] em relação a este?",
+      "Mostre um sinal de outro projeto com o valor do pico em [PEAK] mais próximo do valor atual.",
+      "Qual sinal, em um projeto diferente, apresenta o pico de amplitude em [PEAK] mais próximo deste sinal?",
+      "Em projetos diferentes do atual, qual sinal tem o pico de amplitude em [PEAK] com menor diferença em relação ao selecionado?",
+      "Identifique o sinal de outro projeto com a menor diferença absoluta no pico de amplitude [PEAK].",
+      "Qual sinal de outro projeto tem um pico de amplitude em [PEAK] mais próximo do pico deste sinal?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os sinais com o pico de amplitude em [PEAK] mais próximos deste e que também vêm de um teste sob a mesma rotação e vazão?",
+      "Me traga os sinais com a amplitude do pico em [PEAK] mais próximas deste e que também foram submetidos à mesma frequência de rotação e vazão.",
+      "Quais sinais têm uma amplitude de pico em [PEAK] mais próxima à deste e foram medidos na mesma frequência de rotação e vazão?",
+      "Procure sinais com as amplitudes do pico em [PEAK] mais próximas da deste, usando a mesma frequência de rotação e vazão.",
+      "Quais outros sinais apresentam amplitude do pico em [PEAK] mais próxima desta nas mesmas condições de frequência de rotação e vazão?",
+      "Considerando a mesma frequência de rotação e vazão, me mostre os sinais com uma amplitude de pico em [PEAK] mais próxima à deste."
+    ]
+  },
+  {
+    "question": [
+      "Considerando somente este componente, qual rotação apresentou o maior valor de amplitude no pico em [PEAK]?",
+      "Qual rotação registrou o maior valor de pico em [PEAK] para os sinais deste componente?",
+      "Para este componente, em qual rotação foi observado o pico em [PEAK] de maior amplitude?",
+      "Qual foi a rotação com o maior pico em [PEAK] entre os sinais pertencentes a este componente?",
+      "Em qual rotação ocorreu o maior valor de amplitude do pico em [PEAK] para este componente?",
+      "Qual rotação apresentou a maior amplitude de pico em [PEAK] considerando os sinais deste componente?",
+      "Analisando os sinais deste componente, qual rotação possui o maior valor de pico em [PEAK]?",
+      "Para os sinais deste componente, em que rotação o pico em [PEAK] atingiu seu valor máximo?",
+      "Considerando os sinais associados a este componente, qual rotação tem o pico em [PEAK] mais elevado?",
+      "Qual rotação está relacionada à maior amplitude registrada no pico em [PEAK] deste componente?",
+      "Ao comparar as rotações deste componente, qual delas apresenta o maior pico em [PEAK]?",
+      "Qual rotação produziu o maior valor de amplitude para o pico em [PEAK] neste componente?",
+      "Encontre a rotação correspondente ao maior valor de [PEAK] entre os sinais deste componente."
+    ]
+  },
+  {
+    "question": [
+      "Considerando somente os sinais sem falha deste componente, qual frequência de rotação apresentou o maior valor de amplitude no pico em [PEAK]?",
+      "Qual rotação apresentou o maior pico em [PEAK] entre os sinais sem falha deste componente?",
+      "Para este componente, em qual rotação foi registrada a maior amplitude do pico em [PEAK], considerando apenas os sinais sem falha?",
+      "Analisando apenas os sinais normais deste componente, qual rotação apresentou o pico em [PEAK] mais elevado?",
+      "Entre os sinais sem falha do componente selecionado, qual rotação registrou o maior valor de amplitude em [PEAK]?",
+      "Qual frequência de rotação corresponde ao maior pico em [PEAK] nos sinais que não apresentam falha neste componente?",
+      "Desconsiderando os sinais classificados com falha, qual rotação apresentou o maior pico em [PEAK] para este componente?",
+      "Qual rotação atingiu o valor máximo de [PEAK] entre os sinais sem falha associados a este componente?",
+      "Para os sinais não classificados como falha deste componente, em qual rotação ocorreu o maior pico em [PEAK]?",
+      "Qual rotação apresentou a maior amplitude de pico em [PEAK] considerando somente os sinais normais deste componente?",
+      "Dentre os sinais válidos deste componente, qual rotação possui o maior valor para o pico em [PEAK]?",
+      "Identifique a rotação que apresentou o pico em [PEAK] de maior amplitude entre os sinais sem falha do componente selecionado.",
+      "Qual foi a rotação com o maior valor de [PEAK] considerando exclusivamente os sinais que não possuem falha neste componente?",
+      "Para este componente, qual rotação apresentou o maior valor de pico em [PEAK] após excluir os sinais classificados com falha?"
+    ]
+  },
+  {
+    "question": [
+      "Qual é a amplitude média do pico em [PEAK] considerando apenas os sinais normais deste teste?",
+      "Qual foi a amplitude média do pico em [PEAK] entre os sinais classificados como normais neste teste?",
+      "Considerando somente os sinais normais, qual é a média da amplitude do pico em [PEAK] deste teste?",
+      "Qual é o valor médio da amplitude no pico em [PEAK] para os sinais sem falhas deste teste?",
+      "Entre os sinais sem falhas deste teste, qual é a amplitude média no pico em [PEAK]?",
+      "Qual foi a média das amplitudes do pico em [PEAK] dos sinais normais deste teste?",
+      "Considerando os sinais normais do teste, qual é o valor médio da amplitude em [PEAK]?",
+      "Qual a amplitude média em [PEAK] dos sinais que foram classificados como normais neste teste?",
+      "Dentre os sinais sem falhas deste teste, qual foi a média da amplitude do pico em [PEAK]?",
+      "Qual é a média do valor de amplitude no pico em [PEAK] considerando os sinais sem falhas deste teste?",
+      "Nos sinais sem falhas deste teste, qual é a amplitude média observada no pico em [PEAK]?",
+      "Qual foi a amplitude média no pico de [PEAK] considerando apenas os sinais sem falha deste teste?",
+      "Considerando apenas os sinais sem falha, qual é a média da amplitude do pico em [PEAK] neste teste?",
+      "Qual é o valor médio do pico em [PEAK] em termos de amplitude entre os sinais normais deste teste?",
+      "Qual é a amplitude média do pico de [PEAK] para os sinais normais registrados neste teste?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal nesse componente que tem a amplitude do pico em [PEAK] acima da sua respectiva linha de alarme?",
+      "Existe algum sinal desse componente com o pico em [PEAK] acima da sua respectiva linha de alarme?",
+      "Algum sinal do componente ultrapassa a sua respectiva linha de alarme no pico em [PEAK]?",
+      "Há algum sinal nesse componente cujo pico em [PEAK] está acima do respectivo limite de alarme?",
+      "Algum dos sinais desse componente apresenta o pico em [PEAK] acima do respectivo nível de alarme?",
+      "O pico em [PEAK] de algum sinal desse componente está acima da sua respectiva linha de alarme?",
+      "Existe algum sinal do componente que exceda a sua respectiva linha de alarme em [PEAK]?",
+      "Algum sinal desse componente está com a amplitude em [PEAK] acima do respectivo limite de alarme?",
+      "Há sinais nesse componente que ultrapassam a sua respectiva linha de alarme no valor de [PEAK]?",
+      "Algum dos sinais neste componente apresenta [PEAK] acima do valor definido pela sua respectiva linha de alarme?",
+      "Existe algum pico em [PEAK] acima da sua respectiva linha de alarme entre os sinais desse componente?",
+      "Algum sinal do componente está acima da sua respectiva linha de alarme considerando o pico em [PEAK]?"
+    ]
+  },
+  {
+    "question": [
+      "Existe algum sinal nesse componente com o pico em [PEAK] acima da respectiva linha de alarme que não foi classificado como falha de [FAULT]?",
+      "Há algum sinal no componente em que a amplitude do pico [PEAK] ultrapassa a respectiva linha de alarme, mas que não foi identificado como [FAULT]?",
+      "Algum sinal desse componente apresenta o pico [PEAK] acima do limite da respectiva linha de alarme sem ter sido classificado como [FAULT]?",
+      "Quais sinais desse componente possuem o pico [PEAK] acima da respectiva linha de alarme e não foram classificados como [FAULT]?",
+      "Tem algum sinal neste componente com amplitude acima da respectiva linha de alarme no pico [PEAK] que não esteja classificado como [FAULT]?",
+      "Existe algum sinal neste componente cujo pico [PEAK] ultrapasse a respectiva linha de alarme, mas que não tenha sido associado à falha de [FAULT]?",
+      "Algum sinal desse componente excede a respectiva linha de alarme na frequência [PEAK] sem apresentar classificação de [FAULT]?",
+      "Há sinais nesse componente que ultrapassam o respectivo nível de alarme em [PEAK] e não foram diagnosticados como [FAULT]?",
+      "Quero verificar se existe algum sinal neste componente com o pico [PEAK] acima da respectiva linha de alarme que não esteja identificado como [FAULT].",
+      "É possível encontrar algum sinal nesse componente com amplitude do pico [PEAK] superior à respectiva linha de alarme e sem classificação de [FAULT]?",
+      "Algum sinal apresenta uma amplitude de [PEAK] acima do respectivo limite de alarme sem ter sido classificado como uma falha de [FAULT]?",
+      "Existem sinais no componente que estejam acima da respectiva linha de alarme em [PEAK], mas que tenham sido classificados com outro diagnóstico em vez de [FAULT]?",
+      "Tem algum caso em que o sinal ultrapassa a respectiva linha de alarme no pico [PEAK], porém não foi classificado como [FAULT] neste componente?",
+      "Quais sinais neste componente apresentam [PEAK] acima da respectiva linha de alarme sem que a falha de [FAULT] tenha sido identificada?",
+      "Há algum sinal neste componente que deveria estar relacionado à falha de [FAULT] por ultrapassar a respectiva linha de alarme em [PEAK], mas que não foi classificado dessa forma?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal nesse componente com a amplitude do pico em [PEAK] abaixo da linha de alarme?",
+      "Existe algum sinal no componente cujo pico em [PEAK] esteja abaixo da linha de alarme?",
+      "Algum sinal desse componente apresenta o pico [PEAK] abaixo do limite da linha de alarme?",
+      "Há algum sinal no componente com amplitude inferior à linha de alarme no pico [PEAK]?",
+      "Quais sinais desse componente possuem o pico [PEAK] abaixo da linha de alarme?",
+      "Algum sinal neste componente apresenta amplitude abaixo da linha de alarme na frequência [PEAK]?",
+      "Existe algum sinal neste componente cujo pico [PEAK] esteja abaixo do nível definido pela linha de alarme?",
+      "Há sinais nesse componente que estejam abaixo da linha de alarme em [PEAK]?",
+      "Quero verificar se existe algum sinal nesse componente com o pico [PEAK] abaixo da linha de alarme.",
+      "É possível encontrar algum sinal nesse componente com amplitude do pico [PEAK] inferior à linha de alarme?",
+      "Algum sinal deste componente possui um pico em [PEAK] que não atinge a linha de alarme?",
+      "Tem algum caso em que a amplitude do sinal em [PEAK] esteja abaixo do limite de alarme neste componente?",
+      "Existem sinais no componente que não alcançam a linha de alarme no pico [PEAK]?",
+      "Quais sinais apresentam amplitude inferior ao limite da linha de alarme em [PEAK] neste componente?",
+      "Algum sinal deste componente fica abaixo da linha de alarme quando analisamos o pico [PEAK]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal nesse teste com a amplitude do pico em [PEAK] acima da linha de alarme?",
+      "Existe algum sinal no teste cujo pico em [PEAK] esteja acima da linha de alarme?",
+      "Algum sinal desse teste apresenta o pico [PEAK] acima do limite da linha de alarme?",
+      "Há algum sinal no teste com amplitude superior à linha de alarme no pico [PEAK]?",
+      "Quais sinais desse teste possuem o pico [PEAK] acima da linha de alarme?",
+      "Algum destes sinais apresenta amplitude acima da linha de alarme na frequência [PEAK]?",
+      "Existe algum sinal neste teste cujo pico [PEAK] ultrapasse o nível definido pela linha de alarme?",
+      "Há sinais nesse teste que estejam acima da linha de alarme em [PEAK]?",
+      "Quero verificar se existe algum sinal neste teste com o pico [PEAK] acima da linha de alarme.",
+      "É possível encontrar algum sinal nesse teste com amplitude do pico [PEAK] superior à linha de alarme?",
+      "Algum sinal neste teste possui um pico em [PEAK] que ultrapassa a linha de alarme?",
+      "Tem algum caso em que a amplitude do sinal em [PEAK] esteja acima do limite de alarme neste teste?",
+      "Existem sinais no teste que ultrapassam a linha de alarme no pico [PEAK]?",
+      "Quais sinais neste teste apresentam amplitude superior ao limite da linha de alarme em [PEAK]?",
+      "Algum sinal neste teste fica acima da linha de alarme quando analisamos o pico [PEAK]?",
+      "O teste possui algum sinal com o pico [PEAK] acima do nível de alarme?",
+      "Há algum sinal neste teste cuja amplitude em [PEAK] exceda a linha de alarme?",
+      "Quais sinais do teste ultrapassam a linha de alarme na região de [PEAK]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal nesse teste que não foi classificado como [FAULT], mas apresenta o pico [PEAK] acima da linha de alarme?",
+      "Existe algum sinal no teste com o pico [PEAK] acima da linha de alarme que não foi classificado como [FAULT]?",
+      "Algum sinal desse teste ultrapassa a linha de alarme em [PEAK] sem ter sido identificado como [FAULT]?",
+      "Há algum sinal no teste cuja amplitude em [PEAK] esteja acima da linha de alarme, mas que não tenha sido classificado como [FAULT]?",
+      "Quais sinais desse teste possuem o pico [PEAK] acima da linha de alarme e não foram classificados como [FAULT]?",
+      "Tem algum sinal neste teste com amplitude acima da linha de alarme no pico [PEAK] que não esteja associado à falha de [FAULT]?",
+      "Existe algum caso no teste em que o sinal ultrapasse a linha de alarme em [PEAK], mas não esteja classificado como [FAULT]?",
+      "Algum sinal neste teste apresenta o pico [PEAK] acima do limite de alarme sem ter recebido a classificação [FAULT]?",
+      "Há sinais nesse teste que excedem a linha de alarme em [PEAK] e foram classificados com algo diferente de [FAULT]?",
+      "Quero verificar se existe algum sinal nesse teste com pico [PEAK] acima da linha de alarme que não tenha sido identificado como [FAULT].",
+      "É possível encontrar algum sinal nesse teste cujo pico [PEAK] ultrapasse a linha de alarme sem classificação de [FAULT]?",
+      "Algum sinal possui amplitude superior à linha de alarme em [PEAK], mas não foi diagnosticado como [FAULT] nesse teste?",
+      "Existem sinais no teste que ultrapassam a linha de alarme no pico [PEAK] sem estarem classificados como [FAULT]?",
+      "Quais sinais desse teste apresentam [PEAK] acima do nível de alarme sem que a falha de [FAULT] tenha sido atribuída?",
+      "Tem algum sinal neste teste que esteja acima da linha de alarme em [PEAK], mas tenha sido classificado com uma falha diferente de [FAULT]?",
+      "O teste possui algum sinal com o pico [PEAK] acima da linha de alarme que não esteja classificado como [FAULT]?",
+      "Há algum sinal neste teste cuja amplitude em [PEAK] exceda a linha de alarme sem que tenha sido identificado como [FAULT]?",
+      "Algum sinal do teste ultrapassa o limite de alarme em [PEAK] sem possuir a classificação de [FAULT]?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal nesse teste com a amplitude do pico em [PEAK] abaixo da linha de alarme?",
+      "Existe algum sinal deste teste com o pico [PEAK] abaixo da linha de alarme?",
+      "Algum sinal neste teste apresenta o pico [PEAK] abaixo da linha de alarme?",
+      "Há algum sinal nesse teste cuja amplitude em [PEAK] esteja abaixo da linha de alarme?",
+      "Quais sinais deste teste possuem o pico [PEAK] abaixo da linha de alarme?",
+      "Tem algum sinal deste teste que esteja abaixo da linha de alarme em [PEAK]?",
+      "Existe algum sinal neste teste cuja amplitude do pico [PEAK] esteja abaixo do limite de alarme?",
+      "Algum dos sinais deste teste está com o pico [PEAK] abaixo da linha de alarme?",
+      "Neste teste, há algum sinal com amplitude inferior à linha de alarme em [PEAK]?",
+      "Consigo encontrar algum sinal neste teste cujo pico [PEAK] esteja abaixo da linha de alarme?"
+    ]
+  },
+  {
+    "question": [
+      "Quais BCSs estão cadastradas no software?",
+      "Quais BCSs estão registradas aqui?",
+      "Que BCSs estão cadastradas no sistema?",
+      "Quais BCSs estão disponíveis no software?",
+      "Quais são as BCSs registradas no sistema?",
+      "Tem quais BCSs cadastradas aqui?",
+      "Quais BCSs estão configuradas no software?",
+      "Quais BCSs posso encontrar cadastradas no sistema?",
+      "Quais são as BCSs que estão registradas atualmente?"
+    ]
+  },
+  {
+    "question": [
+      "Quais testes contém somente aquisições de longa duração?",
+      "Quais testes possuem só aquisições de longa duração?",
+      "Em quais testes foram realizadas aquisições de longa duração somente?",
+      "Quais testes contêm somente aquisições consideradas de longa duração?",
+      "Existem testes com aquisições de longa duração somente?",
+      "Em quais testes há somente registros de aquisições de longa duração?",
+      "Quais são os testes que apresentam aquisições de longa duração e não de varredura?",
+      "Quais testes estão associados a aquisições de longa duração e não de varredura?"
+    ]
+  },
+  {
+    "question": [
+      "Quais testes contém aquisições de longa duração?",
+      "Quais testes possuem aquisições de longa duração?",
+      "Em quais testes foram realizadas aquisições de longa duração?",
+      "Quais testes contêm aquisições consideradas de longa duração?",
+      "Existem testes com aquisições de longa duração? Quais?",
+      "Em quais testes há registros de aquisições de longa duração?",
+      "Quais são os testes que apresentam aquisições de longa duração?",
+      "Quais testes estão associados a aquisições de longa duração?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum componente que apresenta a falha de [FAULT] em um eixo e no outro não, considerando as mesmas condições?",
+      "Quais componentes apresentam a falha de [FAULT] em apenas um dos dois eixos, mantendo as mesmas condições?",
+      "Existe algum componente que tenha a falha de [FAULT] em um eixo, mas não no outro, para as mesmas condições de teste?",
+      "Encontre exemplos de componentes que apresentam a falha de [FAULT] em somente um eixo, considerando as mesmas condições de aquisição.",
+      "Quais componentes possuem a falha de [FAULT] detectada em apenas um dos seus dois eixos considerando as mesmas condições?",
+      "Há componentes de dois eixos em que a falha de [FAULT] aparece em um eixo, mas não aparece no outro, sob as mesmas condições?",
+      "Quero identificar componentes que apresentam a falha de [FAULT] em um único eixo, sem que ela apareça nos dois eixos na mesma condição.",
+      "É possível encontrar componentes em que a falha de [FAULT] esteja associada a sinais de apenas um eixo para as mesmas condições?",
+      "Liste os componentes que apresentam a falha de [FAULT] em um dos eixos, mas não em ambos simultaneamente nas mesmas condições.",
+      "Quais componentes com exatamente dois eixos distintos apresentam a falha de [FAULT] em grupos de sinais associados a somente um eixo e sob as mesmas condições?"
+    ]
+  },
+  {
+    "question": [
+      "Me mostre sinais que apresentam [FAULT] em [COMPONENTS].",
+      "Quais sinais apresentam [FAULT] em [COMPONENTS]?",
+      "Existem sinais com [FAULT] em [COMPONENTS]?",
+      "Quais exemplos de sinais possuem [FAULT] em [COMPONENTS]?",
+      "Há algum sinal que apresente [FAULT] em [COMPONENTS]?",
+      "Somente entre [COMPONENTS], existem sinais que apresentem [FAULT]?",
+      "Quais sinais foram identificados com [FAULT] em [COMPONENTS]?",
+      "Filtre entre [COMPONENTS] e mostre exemplos de sinais que possuam [FAULT].",
+      "Em quais sinais foi encontrada a falha de [FAULT] em [COMPONENTS]?",
+      "Quais sinais registram a ocorrência de [FAULT] em [COMPONENTS]?",
+      "Consigo encontrar sinais que apresentem [FAULT] em [COMPONENTS]?"
+    ]
+  },
+  {
+    "question": [
+      "Mostre a proporção de sinais com falha sobre o total de sinais para os testes de longa duração e varredura separadamente.",
+      "Compare a proporção de sinais com falha em relação ao total de sinais nos testes de longa duração e de varredura.",
+      "Qual é o percentual de sinais com falha em cada tipo de teste, longa duração e varredura?",
+      "Calcule a razão entre sinais com falha e o total de sinais para cada modalidade de teste.",
+      "Apresente a taxa de falhas dos sinais em relação ao total de sinais nos testes de longa duração e varredura.",
+      "Mostre separadamente a fração de sinais que apresentam falhas nos testes de longa duração e nos de varredura.",
+      "Como se compara a porcentagem de sinais com falha entre os testes de longa duração e os testes de varredura?",
+      "Para cada tipo de teste, qual é a proporção de sinais com falha considerando todos os sinais do grupo?",
+      "Compare a quantidade proporcional de sinais com falha entre os testes de longa duração e de varredura.",
+      "Qual é a taxa de sinais com falha sobre o total de sinais em cada tipo de teste?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sensor que gerou sinais com falhas diferentes nos testes de varredura e longa duração?",
+      "Tem algum sensor que apresentou falhas diferentes nos sinais entre os testes de varredura e longa duração?",
+      "Entre os testes de varredura e longa duração, algum sensor apresentou sinais com falhas diferentes?",
+      "Nos testes de varredura e longa duração, existem sensores que tiveram falhas distintas em seus sinais?",
+      "Algum sensor apresentou, entre a varredura e a longa duração, sinais com tipos de falha diferentes?",
+      "Existem sinais com falhas diferentes entre os dois testes para algum sensor, considerando varredura e a longa duração?",
+      "Quais sensores tiveram sinais com falhas diferentes quando comparados os testes de longa duração e de varredura?",
+      "Foi identificada alguma diferença nas falhas dos sinais de um mesmo sensor entre os testes de varredura e longa duração?",
+      "Considerando os resultados dos testes, há algum sensor cujos sinais apresentaram falhas distintas na varredura e na longa duração?",
+      "As falhas apresentadas pelos sinais diferem entre a varredura e a longa duração para algum sensor?",
+      "Algum dos sensores possui sinais que, nos testes de longa duração e varredura, apresentaram falhas diferentes?"
+    ]
+  },
+  {
+    "question": [
+      "Qual conjunto de testes tem mais testes de longa duração?",
+      "Em qual conjunto há mais testes de longa duração?",
+      "Qual conjunto apresenta a maior quantidade de testes de longa duração?",
+      "Em qual teste estão concentrados mais testes de longa duração?",
+      "Entre os conjuntos de testes, qual possui mais testes de longa duração?",
+      "Qual conjunto possui a maior quantidade de aquisições de longa duração?",
+      "Considerando os conjuntos de testes, qual deles tem mais aquisições de longa duração?",
+      "Há algum conjunto de testes com mais aquisições de longa duração que os demais?",
+      "Em qual conjunto de testes foi registrada a maior quantidade de aquisições de longa duração?",
+      "Qual conjunto reúne o maior número de testes de longa duração?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sensor que mostrou defeitos num sinal somente na última execução de um teste de longa duração?",
+      "Existe algum sensor que apresentou falhas apenas no último teste de longa duração?",
+      "Quais sensores tiveram defeitos pela primeira vez na última execução de um teste de longa duração?",
+      "Algum sensor apresentou problemas apenas na execução mais recente de um teste de longa duração?",
+      "Quais sensores não apresentaram defeitos nas execuções anteriores, mas tiveram falhas na última execução do teste de longa duração?",
+      "Tem algum sensor que funcionou sem falhas durante as execuções anteriores de longa duração, mas apresentou defeitos na última?",
+      "Quais sensores estavam livres de defeitos até a última execução de um teste de longa duração?",
+      "Algum sensor apresentou defeitos na última execução, embora não tenha apresentado nenhum nas execuções anteriores de longa duração?",
+      "Quais sensores tiveram falhas na última execução, mas nenhuma nas execuções anteriores do mesmo teste de longa duração?",
+      "Algum sensor só começou a apresentar defeitos no final de um teste de longa duração?",
+      "Quais sensores só deram problema na última rodada do teste de longa duração?",
+      "Tem algum sensor que não apresentou nenhum problema durante as execuções anteriores de longa duração, mas falhou na última execução?",
+      "Quais sensores tiveram problemas somente na última execução de um teste de longa duração?"
+    ]
+  },
+  {
+    "question": [
+      "Liste os componentes que apresentaram o mesmo tipo de defeito em todos os sinais de um mesmo sensor nas aquisições de longa duração.",
+      "Mostre os componentes em que um mesmo defeito foi identificado em todos os sinais de um sensor durante as aquisições de longa duração.",
+      "Quais componentes apresentaram uma falha comum a todos os sinais de um mesmo sensor nas aquisições de longa duração?",
+      "Encontre os componentes cujo mesmo tipo de defeito está presente em todos os sinais associados a um sensor nas aquisições de longa duração.",
+      "Retorne os componentes que tiveram o mesmo defeito em todos os sinais de um mesmo sensor durante as aquisições de longa duração.",
+      "Quais componentes apresentaram o mesmo tipo de falha em todos os sinais de um sensor durante testes de longa duração?",
+      "Identifique os componentes que tiveram um defeito comum a todos os sinais de um mesmo sensor nas aquisições de longa duração.",
+      "Mostre os componentes para os quais todos os sinais de um mesmo sensor registraram o mesmo tipo de defeito nas aquisições de longa duração.",
+      "Quais componentes possuem sensores com o mesmo defeito em todos os sinais ao longo das aquisições de longa duração?"
+    ]
+  },
+  {
+    "question": [
+      "Me mostre os componentes com sensores que apresentaram o mesmo defeito em todos os sinais em todas as aquisições de varredura.",
+      "Liste os componentes que apresentaram o mesmo tipo de defeito em todos os sinais de um mesmo sensor nas aquisições de varredura.",
+      "Mostre os componentes em que um mesmo defeito foi identificado em todos os sinais de um sensor durante as aquisições de varredura.",
+      "Quais componentes apresentaram uma falha comum a todos os sinais de um mesmo sensor nas aquisições de varredura?",
+      "Encontre os componentes cujo mesmo tipo de defeito está presente em todos os sinais associados a um sensor nas aquisições de varredura.",
+      "Retorne os identificadores dos componentes que tiveram o mesmo defeito em todos os sinais de um mesmo sensor durante as aquisições de varredura.",
+      "Quais componentes apresentaram o mesmo tipo de falha em todos os sinais de um sensor durante testes de varredura?",
+      "Identifique os componentes que tiveram um defeito comum a todos os sinais de um mesmo sensor nas aquisições de varredura.",
+      "Mostre os componentes para os quais todos os sinais de um mesmo sensor registraram o mesmo tipo de defeito nas aquisições de varredura.",
+      "Quais testes possuem componentes com o mesmo defeito em todos os sinais de um sensor ao longo das aquisições de varredura?"
+    ]
+  },
+  {
+    "question": [
+      "Quais foram os comentários deixados nas análises de falhas severas?",
+      "Que comentários foram registrados nas análises de falhas severas?",
+      "Existem comentários nas análises de falhas severas? Quais?",
+      "O que foi comentado nas análises das falhas severas?",
+      "Quais comentários estão associados às falhas severas analisadas?",
+      "Foram registrados quais comentários durante as análises de falhas severas?",
+      "Quais observações foram feitas nas análises de falhas severas?",
+      "Que observações foram registradas para as falhas severas?",
+      "Nas análises de falhas severas, quais comentários foram deixados?",
+      "Quais são os comentários relacionados às análises de falhas severas?"
+    ]
+  },
+  {
+    "question": [
+      "Quais janelas de busca são usadas para encontrar picos em [ROTATION]Hz?",
+      "Quais janelas de frequência são utilizadas para detectar picos em [ROTATION]Hz?",
+      "Para [ROTATION]Hz, quais janelas de busca identificam os picos?",
+      "Em [ROTATION]Hz, quais são as janelas usadas na busca por picos?",
+      "Quais janelas são configuradas para detectar sinais em [ROTATION]Hz?",
+      "Que janelas de busca detectam picos na frequência de [ROTATION]Hz?",
+      "Quais janelas de frequência correspondem à busca de picos em [ROTATION]Hz?",
+      "Para encontrar picos em [ROTATION]Hz, quais janelas de frequência são consideradas?",
+      "Quais janelas são usadas na detecção de picos para [ROTATION]Hz?",
+      "Em uma rotação de [ROTATION]Hz, quais janelas de busca são utilizadas para detectar os picos?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os testes com relatores? Quem são eles?",
+      "Quais testes possuem relatores e quem são os respectivos relatores?",
+      "Em quais testes há relatores e quais são seus nomes?",
+      "Quais testes foram associados a relatores? Quem são eles?",
+      "Existem testes com relatores? Quais testes e quem são os relatores?",
+      "Quem são os relatores dos testes que possuem relatores?",
+      "Quais testes têm relatores cadastrados e quem são essas pessoas?",
+      "Em quais testes foram definidos relatores e quem são eles?",
+      "Quais são os testes que contam com relatores? Quem são os responsáveis?",
+      "Liste os testes que possuem relatores e informe quem são eles."
+    ]
+  },
+  {
+    "question": [
+      "Nos relatórios, quem ocupa o cargo de gerente geral?",
+      "Quais pessoas os relatórios identificam como gerentes gerais?",
+      "Que nomes de gerentes gerais constam nos relatórios?",
+      "Entre as informações dos relatórios, quem são os gerentes gerais?",
+      "Os relatórios indicam quais pessoas como gerentes gerais?",
+      "É possível identificar nos relatórios quem são os gerentes gerais?",
+      "Quais pessoas aparecem nos relatórios na função de gerente geral?",
+      "Considerando os relatórios, quais são os responsáveis pelo cargo de gerente geral?",
+      "Quem exerce a função de gerente geral segundo os relatórios?",
+      "Nos documentos analisados, quais pessoas são apresentadas como gerentes gerais?"
+    ]
+  },
+  {
+    "question": [
+      "Existe algum relatório classificado com confidencialidade máxima?",
+      "Há registros de relatórios com nível de confidencialidade máxima?",
+      "Algum relatório no sistema possui confidencialidade máxima?",
+      "O sistema contém algum relatório marcado como confidencialidade máxima?",
+      "Foi identificado algum relatório com classificação de confidencialidade máxima?",
+      "Há algum exemplo de relatório que tenha confidencialidade máxima?",
+      "Quais relatórios, se houver, estão classificados com confidencialidade máxima?",
+      "Existe no sistema algum caso de relatório com o maior nível de confidencialidade?",
+      "Algum dos relatórios registrados apresenta classificação máxima de confidencialidade?",
+      "No sistema, há pelo menos um relatório definido como de confidencialidade máxima?"
+    ]
+  },
+  {
+    "question": [
+      "De quais cidades são os relatórios registrados?",
+      "Que cidades aparecem como origem nos relatórios?",
+      "Quais cidades estão associadas aos relatórios?",
+      "Nos relatórios, quais são as cidades de origem identificadas?",
+      "Em quais cidades os relatórios foram registrados?",
+      "Quais localidades de origem constam nos relatórios?",
+      "Os relatórios estão vinculados a quais cidades?",
+      "Que cidades são mencionadas como origem dos relatórios?",
+      "Quais são as cidades relacionadas aos relatórios registrados?",
+      "Considerando os relatórios, quais cidades estão cadastradas como origem?"
+    ]
+  },
+  {
+    "question": [
+      "Quais títulos aparecem com mais frequência nos relatórios?",
+      "Que títulos são mais recorrentes entre os relatórios?",
+      "Quais são os nomes de relatório mais utilizados?",
+      "Que informações costumam aparecer no campo de título dos relatórios?",
+      "Quais títulos se repetem com maior frequência nos relatórios?",
+      "Quais são os títulos mais frequentemente registrados nos relatórios?",
+      "Que valores são mais comuns no campo de título dos relatórios?",
+      "Quais denominações aparecem mais vezes como título de relatório?",
+      "Entre os relatórios, quais títulos são encontrados com maior frequência?",
+      "Quais são os principais títulos utilizados nos relatórios?"
+    ]
+  },
+  {
+    "question": [
+      "Existe algum teste associado a mais de um relator?",
+      "Quais testes possuem mais de um relator?",
+      "Há algum teste que tenha dois ou mais relatores?",
+      "Algum teste está vinculado a múltiplos relatores?",
+      "Em quais testes há mais de um relator associado?",
+      "É possível identificar testes com mais de um relator?",
+      "Existem testes relacionados a mais de um relator?",
+      "Algum dos testes possui múltiplos relatores cadastrados?",
+      "Quais testes têm mais de um relator registrado?",
+      "Há algum teste para o qual foram cadastrados vários relatores?"
+    ]
+  },
+  {
+    "question": [
+      "O que devo escrever na descrição de uma falha?",
+      "Quais informações costumam ser registradas na descrição das falhas?",
+      "O que geralmente é informado no campo de descrição das falhas?",
+      "Que tipo de conteúdo aparece normalmente na descrição de uma falha?",
+      "Como o campo de descrição das falhas costuma ser preenchido?",
+      "Quais são os textos mais comuns registrados nas descrições das falhas?",
+      "O que costuma constar na descrição de uma falha?",
+      "Que informações são normalmente incluídas na descrição das falhas?",
+      "Quais conteúdos aparecem com frequência no campo de descrição das falhas?",
+      "Como geralmente são descritas as falhas registradas?",
+      "Que tipo de informação costuma ser adicionada à descrição de uma falha?"
+    ]
+  },
+  {
+    "question": [
+      "Quais são os nomes mais utilizados para as falhas severas?",
+      "Quais nomenclaturas aparecem com maior frequência nas falhas severas?",
+      "Quais são as falhas severas mais recorrentes por nome?",
+      "Quais nomes de falhas severas são mais comuns?",
+      "Como as falhas severas são geralmente denominadas?",
+      "Quais denominações de falhas severas ocorrem mais vezes?",
+      "Quais são os nomes de falhas severas mais frequentes no sistema?",
+      "Quais nomenclaturas predominam entre as falhas severas?",
+      "Quais são as principais denominações registradas para falhas severas?",
+      "Quais nomes se repetem mais nos registros de falhas severas?",
+      "Como se distribuem as falhas severas por nomenclatura?"
+    ]
+  },
+  {
+    "question": [
+      "É normal ter somente um sensor num componente?",
+      "É comum existir apenas um sensor instalado num componente?",
+      "Um componente pode ter somente um sensor?",
+      "Há casos em que apenas um sensor é utilizado num componente?",
+      "É esperado encontrar somente um sensor num componente?",
+      "Existe algum componente que tenha apenas um sensor instalado?",
+      "É normal que um componente tenha somente um sensor?",
+      "Um componente com apenas um sensor é comum?",
+      "Pode haver somente um sensor associado à um componente?",
+      "É possível que um componente possua apenas um sensor?",
+      "A presença de um único sensor num componente está dentro do padrão?"
+    ]
+  },
+  {
+    "question": [
+      "É comum um componente possuir sensores em apenas um eixo?",
+      "É normal que um componente tenha sensores em somente 1 dos eixos?",
+      "Um componente pode ter sensores instalados somente em um dos eixos?",
+      "Há componentes que possuem sensores em apenas um eixo?",
+      "É esperado encontrar sensores em somente um eixo de um componente?",
+      "Um único eixo pode concentrar todos os sensores de um componente?",
+      "É normal que os sensores de um componente estejam presentes em apenas um eixo?",
+      "Existem componentes configurados com sensores em somente um eixo?",
+      "A presença de sensores em apenas um eixo do componente é uma configuração comum?",
+      "Pode haver somente um eixo do componente equipado com sensores?",
+      "Um componente pode estar configurado com sensores em apenas um dos seus eixos?"
+    ]
+  },
+  {
+    "question": [
+      "Tem algum exemplo de sensor na altura 0.75 do componente?",
+      "Existe algum sensor posicionado na altura 0.75 do componente?",
+      "Há algum caso de sensor instalado em 0.75 de altura?",
+      "Algum componente possui um sensor localizado em 0.75?",
+      "É possível encontrar sensores posicionados em 0.75 do componente?",
+      "Tem algum registro de sensor na posição 0.75?",
+      "Algum sensor foi cadastrado com altura 0.75?",
+      "Existem exemplos de sensores instalados na altura 0.75?",
+      "Há algum componente com sensor localizado exatamente em 0.75?",
+      "Algum dos sensores está registrado na altura 0.75 do componente?",
+      "Foi identificado algum caso de sensor posicionado em 0.75?"
+    ]
+  },
+  {
+    "question": [
+      "Quais BCS tem um(a) [COMPONENT]?",
+      "Em quais BCS existe um(a) [COMPONENT]?",
+      "Quais BCS possuem um(a) [COMPONENT]?",
+      "Em quais BCS está presente um(a) [COMPONENT]?",
+      "Quais BCS têm um(a) [COMPONENT] instalado(a)?",
+      "Em quais BCS foi identificado um(a) [COMPONENT]?",
+      "Quais BCS estão associadas a um(a) [COMPONENT]?",
+      "Quais BCS possuem um componente [COMPONENT]?"
+    ]
+  },
+  {
+    "question": [
+      "Quais fabricantes dos componentes de tipo [COMPONENT] estão cadastrados?",
+      "Quais fabricantes dos componentes de tipo [COMPONENT] estão registrados no sistema?",
+      "Que fabricantes dos componentes de tipo [COMPONENT] estão cadastrados?",
+      "Quais registros de fabricantes existem para o tipo [COMPONENT]?",
+      "Quais fabricantes de [COMPONENT] estão no sistema?",
+      "Existem quais fabricantes de [COMPONENT] registrados?",
+      "Quais são os fabricantes de [COMPONENT] que estão presentes no sistema?",
+      "Quais fabricantes de [COMPONENT] constam no sistema?",
+      "Quais registros de fabricantes de componentes do tipo '[COMPONENT]' podem ser encontrados no sistema?",
+      "Que fabricantes de componentes pertencentes ao tipo [COMPONENT] estão cadastrados?"
+    ]
+  },
+  {
+    "question": [
+      "Quais modelos dos componentes de tipo [COMPONENT] estão cadastrados?",
+      "Quais modelos dos componentes de tipo [COMPONENT] estão registrados no sistema?",
+      "Que modelos dos componentes de tipo [COMPONENT] estão cadastrados?",
+      "Quais registros de modelos existem para o tipo [COMPONENT]?",
+      "Quais modelos de [COMPONENT] estão no sistema?",
+      "Existem quais modelos de [COMPONENT] registrados?",
+      "Quais são os modelos de [COMPONENT] que estão presentes no sistema?",
+      "Quais modelos de [COMPONENT] constam no sistema?",
+      "Quais registros de modelos de componentes do tipo '[COMPONENT]' podem ser encontrados no sistema?",
+      "Que modelos de componentes pertencentes ao tipo [COMPONENT] estão cadastrados?"
+    ]
+  },
+  {
+    "question": [
+      "Faça a média entre os picos em [PEAK] dos sinais normais deste componente.",
+      "Qual é a média dos valores da amplitude em [PEAK] dos sinais normais deste componente?",
+      "Calcule a média dos picos em [PEAK] para os sinais normais deste componente.",
+      "Considerando os sinais normais deste componente, qual é a média dos valores registrados na amplitude em [PEAK]?",
+      "Qual valor médio da amplitude em [PEAK] é observado nos sinais normais deste componente?",
+      "Qual é o valor médio dos picos [PEAK] entre os sinais normais do componente?",
+      "Faça o cálculo da média de amplitude em [PEAK] dos sinais classificados como normais neste componente.",
+      "Entre os sinais normais deste componente, qual é a média dos respectivos valores da amplitude em [PEAK]?",
+      "Qual resultado obtemos ao calcular a média dos picos em [PEAK] dos sinais normais deste componente?",
+      "Que média de amplitude em [PEAK] apresentam os sinais normais associados a este componente?",
+      "Considerando apenas os sinais normais, qual é o valor médio da amplitude em [PEAK] neste componente?"
+    ]
+  },
+  {
+    "question": [
+      "Faça a média entre os picos em [PEAK] dos sinais normais deste componente considerando somente os sensores no eixo [AXIS].",
+      "Qual é a média do pico [PEAK] dos sinais normais dos sensores localizados no eixo [AXIS] deste componente?",
+      "Calcule a média dos valores do pico [PEAK] dos sinais normais deste componente considerando apenas o eixo [AXIS].",
+      "Entre os sensores do eixo [AXIS], qual é a média dos picos [PEAK] dos sinais normais deste componente?",
+      "Considerando somente os sensores no eixo [AXIS] neste componente, qual é o valor médio do pico [PEAK] dos sinais normais?",
+      "Qual resultado é obtido ao calcular a média do pico [PEAK] dos sinais normais do eixo [AXIS] deste componente?",
+      "Nos sinais normais dos sensores posicionados no eixo [AXIS] neste componente, qual é a média dos valores do pico [PEAK]?",
+      "Qual é o valor médio dos picos em [PEAK] para os sinais normais registrados no eixo [AXIS] neste componente?",
+      "Faça o cálculo da média dos valores do pico [PEAK] dos sinais classificados como normais entre os sensores do eixo [AXIS] neste componente.",
+      "Para este componente, qual é a média do pico [PEAK] considerando apenas os sinais normais dos sensores do eixo [AXIS]?",
+      "Qual média os sinais normais provenientes dos sensores localizados no eixo [AXIS] neste componente apresentam para os picos [PEAK]?"
+    ]
+  },
+  {
+    "question": [
+      "Faça a média entre os picos em [PEAK] dos sinais normais dos sensores na altura [HEIGHT] desse componente.",
+      "Qual é a média do pico [PEAK] dos sinais normais dos sensores localizados na altura [HEIGHT] deste componente?",
+      "Calcule a média dos valores do pico [PEAK] dos sinais normais dos sensores posicionados na altura [HEIGHT] neste componente.",
+      "Entre os sensores na altura [HEIGHT] neste componente, qual é a média dos picos [PEAK] dos sinais normais?",
+      "Considerando os sensores instalados em [HEIGHT] neste componente, qual é o valor médio do pico [PEAK] nos sinais normais?",
+      "Qual resultado obtemos ao calcular a média dos picos em [PEAK] nos sinais normais dos sensores da altura [HEIGHT] neste componente?",
+      "Nos sinais normais registrados pelos sensores na altura [HEIGHT] neste componente, qual é a média dos valores do pico [PEAK]?",
+      "Qual é o valor médio dos picos [PEAK] dos sinais normais deste componente provenientes dos sensores localizados em [HEIGHT]?",
+      "Faça o cálculo da média do pico [PEAK] dos sinais normais considerando os sensores posicionados na altura [HEIGHT] deste componente.",
+      "Para este componente, qual é a média do pico [PEAK] dos sinais normais dos sensores instalados em [HEIGHT]?",
+      "Que média dos picos em [PEAK] apresentam os sinais normais dos sensores localizados na altura [HEIGHT] neste componente?"
+    ]
+  },
+  {
+    "question": [
+      "Dentre os sinais neste componente, qual foi a maior e a menor distância normalizada entre a frequência de rotação e a frequência onde foi encontrado o pico em 1x?",
+      "Qual foi a maior e a menor distância normalizada entre a frequência de rotação e a frequência do pico em 1x nos sinais deste componente?",
+      "Nos sinais deste componente, qual é a maior e a menor distância normalizada entre a rotação e o pico identificado em 1x?",
+      "Qual é a maior e a menor diferença normalizada entre a frequência de rotação e a frequência em que ocorreu o pico de 1x nos sinais deste componente?",
+      "Entre os sinais deste componente, qual a maior e a menor distância normalizada existe entre a frequência de rotação e os picos em 1x?",
+      "Qual é a maior e a menor distância normalizada observada entre a frequência de rotação e os picos classificados como 1x neste componente?",
+      "Para os sinais do componente, qual foi o maior e o menor afastamento normalizado entre a frequência de rotação e a frequência do pico em 1x?",
+      "Qual foi o maior e o menor valor de distância normalizada foi obtido entre a rotação e a frequência correspondente ao pico em 1x para os sinais deste componente?",
+      "Nos sinais analisados deste componente, qual é a maior e a menor distância normalizada entre a frequência de rotação e a frequência do pico 1x?"
+    ]
+  },
+  {
+    "question": [
+      "Calcule a média da distância normalizada entre a frequência de rotação e a frequência do pico 1x para os sinais associados à falha [FAULT].",
+      "Qual é a distância normalizada média entre a frequência de rotação e a frequência do pico 1x nos sinais que apresentam a falha [FAULT]?",
+      "Determine a média da distância relativa entre a frequência de rotação e o pico 1x para o tipo de falha [FAULT].",
+      "Calcule a distância normalizada média entre a frequência de rotação e a frequência 1x considerando apenas os sinais com a falha [FAULT].",
+      "Para os sinais classificados com a falha [FAULT], obtenha a média da diferença normalizada entre a frequência do pico 1x e a frequência de rotação.",
+      "Analise a distância normalizada média entre a frequência de rotação e a frequência do pico 1x para a falha [FAULT].",
+      "Qual é o valor médio da distância normalizada absoluta entre o pico 1x e a frequência de rotação para a falha [FAULT]?",
+      "Avalie a distância normalizada entre a frequência de rotação e o pico 1x nos sinais que possuem o tipo de falha [FAULT], calculando a média.",
+      "Encontre a média da distância normalizada entre a frequência de rotação e a frequência do pico em 1x para os sinais com falha [FAULT].",
+      "Calcule o desvio relativo médio entre a frequência de rotação e a frequência do pico 1x para o tipo de falha [FAULT].",
+      "Considerando somente os sinais associados à falha [FAULT], qual é a média da distância normalizada absoluta entre a frequência do pico 1x e a frequência de rotação?",
+      "Verifique qual é a distância normalizada média entre a frequência do primeiro pico e a frequência de rotação para o tipo de falha [FAULT].",
+      "Qual é a média da diferença relativa absoluta entre a frequência do pico 1x e a frequência de rotação para a falha [FAULT]?"
+    ]
+  },
+  {
+    "question": [
+      "Calcule a média, o desvio padrão, o mínimo e o máximo para a distância normalizada entre as frequências de rotação e as frequências do pico 1x para os sinais sem falhas.",
+      "Qual é a média, o desvio padrão, o valor mínimo e o valor máximo da distância normalizada entre a frequência de rotação e a frequência do pico 1x nos sinais normais?",
+      "Determine as estatísticas descritivas (média, desvio padrão, mínimo e máximo) da distância normalizada entre a frequência de rotação e a frequência de pico 1x para sinais sem falhas.",
+      "Para os sinais normais, obtenha a média, o desvio padrão, a menor e a maior distância normalizada entre a frequência de rotação e o pico 1x.",
+      "Quais são os valores médio, desvio padrão, mínimo e máximo da diferença normalizada entre a frequência de rotação e a frequência do primeiro pico 1x nos sinais sem falhas?",
+      "Analise a distância normalizada entre a frequência rotacional e a frequência do pico 1x nos sinais sem falhas, retornando média, desvio padrão, mínimo e máximo.",
+      "Calcule as estatísticas da distância normalizada entre a frequência de rotação e a frequência correspondente ao pico 1x, considerando apenas sinais normais: média, desvio padrão, mínimo e máximo.",
+      "Nos sinais sem falhas, quais são a média, o desvio padrão, a distância normalizada mínima e a distância normalizada máxima entre a frequência de rotação e o pico 1x?",
+      "Retorne a média, o desvio padrão, o menor valor e o maior valor da distância normalizada entre a frequência de rotação do equipamento e a frequência do pico 1x para aquisições sem falhas.",
+      "Para sinais classificados como normais, calcule a média, o desvio padrão, o mínimo e o máximo da distância relativa normalizada entre a rotação e a frequência do pico 1x.",
+      "Obtenha os indicadores estatísticos média, desvio padrão, mínimo e máximo da distância normalizada entre a frequência de rotação e o primeiro pico harmônico (1x), excluindo os sinais com falhas.",
+      "Qual é o comportamento estatístico da distância normalizada entre a frequência rotacional e a frequência de pico 1x nos sinais sem falhas? Retorne a média, o desvio padrão, o mínimo e o máximo.",
+      "Considere somente os sinais normais e calcule a média, o desvio padrão, a menor distância e a maior distância normalizada entre a frequência de rotação e a frequência do pico 1x.",
+      "Faça um resumo estatístico da distância normalizada entre a frequência de rotação e a frequência do pico 1x para sinais sem falhas, incluindo média, desvio padrão, valor mínimo e valor máximo.",
+      "Para os sinais sem falhas, determine a média, o desvio padrão, o limite mínimo e o limite máximo da distância normalizada calculada entre a frequência do pico 1x e a frequência de rotação."
+    ]
+  },
+  {
+    "question": [
+      "Calcule a média e a variação da distância normalizada entre as frequências de rotação e as frequências do pico 1x para diferentes componentes. Selecione somente os sinais sem falhas e ordene pela maior média.",
+      "Calcule a média e o desvio padrão da distância normalizada entre a frequência de rotação e a frequência do pico 1x para diferentes componentes, considerando somente sinais sem falhas. Ordene pela maior média.",
+      "Compare a média e a variação das distâncias normalizadas entre a frequência de rotação e o pico 1x nos sinais normais de cada componente. Ordene pela maior média.",
+      "Para cada componente, calcule a média e o desvio padrão da diferença normalizada entre a frequência do pico 1x e a frequência de rotação, excluindo sinais com falhas. Ordene pela maior média.",
+      "Analise a distância normalizada entre a frequência de rotação e a frequência do pico 1x para cada componente, utilizando apenas sinais sem falhas, e ordene pela maior média.",
+      "Quais componentes apresentam as maiores médias de distância normalizada entre a frequência de rotação e o pico 1x nos sinais sem falhas? Calcule também o desvio padrão.",
+      "Agrupe os sinais normais por componente e calcule a média e o desvio padrão da distância normalizada entre a frequência de rotação e a frequência do pico 1x. Ordene pela maior média.",
+      "Verifique se a distância normalizada entre a frequência de rotação e o pico 1x varia entre componentes, considerando apenas sinais sem falhas. Ordene pela maior média.",
+      "Calcule, para cada componente, a média e a dispersão da distância normalizada entre a frequência de rotação e a frequência do primeiro pico, excluindo os sinais associados a falhas. Ordene pela maior média.",
+      "Compare os componentes com base na média e no desvio padrão da distância normalizada entre a frequência de rotação e a frequência do pico 1x, usando somente sinais normais. Ordene pela maior média.",
+      "Determine a média e o desvio padrão da distância relativa entre a frequência de rotação e a frequência do pico 1x para cada componente, sem incluir sinais com falhas. Ordene pela maior média.",
+      "Identifique diferenças entre componentes na distância normalizada do pico 1x em relação à frequência de rotação, calculando a média e o desvio padrão dos sinais sem falhas. Ordene pela maior média.",
+      "Calcule a distância normalizada absoluta entre a frequência do pico 1x e a frequência de rotação nos sinais normais, apresente a média e o desvio padrão por componente e ordene os resultados pela média decrescente."
+    ]
+  },
+  {
+    "question": [
+      "Calcule a distância normalizada entre a frequência de rotação e a frequência do pico 1x para estes sinais",
+      "Qual é a distância normalizada entre a frequência de rotação e a frequência do pico 1x para estes sinais?",
+      "Determine a distância normalizada entre a frequência de rotação e a frequência do pico 1x dos sinais selecionados.",
+      "Calcule, para cada sinal selecionado, a distância normalizada entre a frequência de rotação e a do pico 1x.",
+      "Qual valor de distância normalizada existe entre a frequência de rotação e a do pico 1x nos sinais selecionados?",
+      "Obtenha a distância normalizada entre as frequências de rotação e as dos picos 1x destes sinais.",
+      "Para os sinais selecionados, qual é o resultado do cálculo da distância normalizada entre a frequência de rotação e a frequência do pico 1x?",
+      "Como fica a distância normalizada entre a frequência de rotação e a frequência do pico 1x para os sinais escolhidos?",
+      "Qual é o valor normalizado da diferença entre a frequência de rotação e a frequência do pico 1x desses sinais?",
+      "Encontre a distância normalizada entre a frequência de rotação e a do pico 1x nos sinais selecionados.",
+      "Calcule, nos sinais escolhidos, o afastamento normalizado entre a frequência de rotação e a frequência correspondente ao pico 1x."
+    ]
+  },
+  {
+    "question": [
+      "Tem algum sinal normal neste componente cujo pico em 1x foi encontrado em uma frequência abaixo de 95% da frequência de alimentação?",
+      "Existe algum sinal normal deste componente com o pico 1x em uma frequência inferior a 95% da frequência de alimentação?",
+      "Quais sinais normais deste componente apresentam o pico 1x abaixo de 95% da frequência de alimentação?",
+      "Há algum sinal sem falhas neste componente cujo pico 1x esteja localizado abaixo de 95% da frequência de alimentação?",
+      "Neste componente, algum sinal normal possui o pico 1x em uma frequência menor que 95% da frequência de alimentação?",
+      "É possível encontrar sinais normais neste componente com o pico 1x abaixo do limite de 95% da frequência de alimentação?",
+      "Quais sinais deste componente, considerando apenas os normais, têm o pico 1x localizado abaixo de 95% da frequência de alimentação?",
+      "Algum dos sinais normais do componente apresenta uma frequência de pico 1x inferior a 95% da frequência de alimentação?",
+      "Entre os sinais normais deste componente, existem casos em que o pico 1x ocorre abaixo de 95% da frequência de alimentação?",
+      "O componente possui algum sinal normal cujo pico em 1x esteja abaixo de 95% da frequência de alimentação?",
+      "Foram identificados sinais normais neste componente com a frequência do pico 1x inferior a 95% da frequência de alimentação?"
+    ]
+  },
+  {
+    "question": [
+      "Qual a mediana das amplitudes entre [RANGE]Hz neste sinal?",
+      "Calcule a mediana das amplitudes entre [RANGE]Hz para este sinal.",
+      "Para este sinal, calcule a mediana das amplitudes entre [RANGE]Hz.",
+      "Considerando somente o range [RANGE]Hz, calcule a mediana das amplitudes neste sinal",
+      "Qual é a mediana das amplitudes no intervalo de frequência [RANGE]Hz deste sinal?",
+      "Qual a mediana das amplitudes dentro do range [RANGE]Hz neste sinal?",
+      "Calcule a mediana das amplitudes no intervalo [RANGE]Hz deste sinal.",
+      "Calcule a mediana das amplitudes dentro da faixa de frequência [RANGE]Hz neste sinal.",
+      "Determine a mediana das amplitudes para a faixa de frequência [RANGE]Hz neste sinal.",
+      "Considerando a frequência entre [RANGE]Hz, qual é a mediana das amplitudes neste sinal?",
+      "Para a faixa [RANGE]Hz, qual é a mediana das amplitudes deste sinal?",
+      "Qual o valor da mediana das amplitudes considerando apenas o range [RANGE]Hz neste sinal?",
+      "Encontre a mediana das amplitudes no range de frequência [RANGE]Hz deste sinal.",
+      "Qual é a amplitude mediana no intervalo [RANGE]Hz deste sinal?",
+      "Obtenha a mediana das amplitudes para o intervalo de frequência [RANGE]Hz neste sinal.",
+      "Considerando somente o intervalo [RANGE]Hz, qual é a mediana das amplitudes neste sinal?",
+      "Qual a mediana dos valores de amplitude entre [RANGE]Hz para este sinal?",
+      "Determine o valor mediano das amplitudes entre [RANGE]Hz neste sinal."
+    ]
+  },
+  {
+    "question": [
+      "Qual a mediana da amplitude na janela de frequência para encontrar o pico 1x deste sinal?",
+      "Considerando a janela de frequência para encontrar o pico 1x utilizada neste sinal, calcule a mediana das amplitudes no mesmo range.",
+      "Calcule a mediana das amplitudes localizadas na janela de frequência para encontrar o pico 1x utilizada neste sinal.",
+      "Neste sinal, faça a mediana das amplitudes dentro das frequências notadas pela janela de frequência para encontrar o pico 1x.",
+      "Qual é a mediana das amplitudes dentro da janela de frequência para encontrar o pico 1x deste sinal?",
+      "Calcule a mediana das amplitudes na janela de frequência para encontrar o pico 1x utilizada neste sinal.",
+      "Qual a mediana da amplitude considerando a janela de frequência para encontrar o pico 1x deste sinal?",
+      "Determine a mediana das amplitudes dentro da janela de frequência para encontrar o pico 1x do sinal.",
+      "Considerando a janela de frequência para encontrar o pico 1x do sinal, qual é a mediana das amplitudes?",
+      "Encontre a mediana das amplitudes presentes na janela de frequência para encontrar o pico 1x deste sinal.",
+      "Para a janela de frequência para encontrar o pico 1x deste sinal, calcule a mediana das amplitudes.",
+      "Qual o valor mediano das amplitudes na janela de frequência para encontrar o pico 1x utilizada pelo sinal?",
+      "Calcule o valor mediano das amplitudes considerando a janela de frequência para encontrar o pico 1x deste sinal.",
+      "Neste sinal, qual é a mediana das amplitudes dentro da janela de frequência para encontrar o pico 1x?"
+    ]
+  },
+  {
+    "question": [
+      "Calcule a RMS entre [RANGE]Hz.",
+      "Qual a RMS entre [RANGE]Hz?",
+      "Faça a root mean squared das amplitudes entre [RANGE]Hz.",
+      "Calcule a RMS entre [RANGE]Hz.",
+      "Qual é a RMS entre [RANGE]Hz?",
+      "Calcule o valor RMS das amplitudes entre [RANGE]Hz.",
+      "Qual o valor RMS das amplitudes na faixa [RANGE]Hz?",
+      "Determine a RMS das amplitudes entre [RANGE]Hz.",
+      "Qual é a RMS do sinal na faixa de frequência [RANGE]Hz?",
+      "Calcule a root mean square das amplitudes entre [RANGE]Hz.",
+      "Determine o valor root mean square entre [RANGE]Hz.",
+      "Qual a root mean square das amplitudes na faixa [RANGE]Hz?",
+      "Obtenha a RMS do sinal considerando a faixa de frequência [RANGE]Hz."
+    ]
+  },
+  {
+    "question": [
+      "Qual a RMS perto do pico 1x? Considere um range de [F-1, F+1].",
+      "Calcule a RMS das amplitudes em torno do pico 1x, considerando uma borda de 1Hz.",
+      "Faça a root mean squared das amplitudes entre F-1 e F+1, sendo F a frequência do pico 1x.",
+      "Qual é a RMS das amplitudes próximas ao pico 1x, considerando o intervalo [F-1, F+1]?",
+      "Calcule a RMS em torno do pico 1x, usando a faixa de frequência [F-1, F+1].",
+      "Qual o valor RMS das amplitudes entre F-1 e F+1, considerando F como a frequência do pico 1x?",
+      "Determine a RMS das amplitudes na faixa [F-1, F+1] ao redor do pico 1x.",
+      "Calcule o valor root mean square das amplitudes próximas à frequência do pico 1x, entre F-1 e F+1.",
+      "Qual é a root mean square das amplitudes na faixa de 1Hz ao redor do pico 1x?",
+      "Obtenha a RMS das amplitudes considerando uma janela de +-1Hz em torno do pico 1x.",
+      "Para o pico 1x, calcule a RMS das amplitudes dentro do intervalo de frequência [F-1, F+1].",
+      "Qual a RMS do sinal em uma janela de 1Hz para cada lado do pico 1x?",
+      "Calcule a RMS das amplitudes ao redor do pico 1x, considerando F como sua frequência e o intervalo F-1 a F+1."
+    ]
+  },
+  {
+    "question": [
+      "Calcule a RMS em torno do pico 1x para todos os sinais e verifique se existe relação entre o valor e a ocorrência de falhas, considerando uma faixa de -1 Hz e +1 Hz.",
+      "Qual é a RMS média na vizinhança do pico 1x para cada tipo de falha, considerando 1 Hz abaixo e acima da frequência do pico?",
+      "Calcule o valor RMS na faixa de frequência entre F-1 Hz e F+1 Hz do pico 1x e compare os resultados por tipo de falha.",
+      "Avalie se a RMS ao redor da frequência 1x varia conforme o tipo de falha, utilizando uma janela de ±1 Hz.",
+      "Determine a RMS dos sinais na região do pico 1x, considerando a faixa de frequência de F-1 a F+1, e agrupe os resultados por tipo de falha.",
+      "Compare a RMS média ao redor do pico 1x entre os diferentes tipos de falha, considerando uma banda de frequência de 2 Hz centrada no pico.",
+      "Existe relação entre o valor RMS próximo ao pico 1x e os tipos de falha identificados? Considere uma faixa de ±1 Hz em torno do pico.",
+      "Analise a RMS ao redor do primeiro pico de frequência dos sinais e apresente a média por tipo de falha, considerando um intervalo de 1 Hz para cada lado.",
+      "Qual é o valor médio da RMS na banda de frequência centrada no pico 1x (2Hz de banda) para cada tipo de falha?",
+      "Calcule a raiz quadrática média das amplitudes na faixa de F-1 Hz a F+1 Hz do pico 1x e compare os valores entre os tipos de falha.",
+      "Verifique se sinais associados a diferentes tipos de falha apresentam valores distintos de RMS em torno do pico 1x, considerando uma tolerância de ±1 Hz.",
+      "Agrupe os sinais por tipo de falha e calcule a RMS média na região de frequência próxima ao pico 1x, entre F-1 Hz e F+1 Hz.",
+      "Para cada tipo de falha, calcule a RMS dos dados do sinal na faixa de frequência entre a frequência do pico 1x menos 1 Hz e mais 1 Hz."
+    ]
+  },
+  {
+    "question": [
+      "Faça uma razão entre a frequência do pico 1x com a frequência do pico 2x.",
+      "Qual a razão entre a frequência onde foram encontrados os picos 1x e 2x?",
+      "Calcule a razão entre a frequência do pico 1x em relação ao pico 2x.",
+      "Qual é a razão entre as frequências dos picos 1x e 2x?",
+      "Calcule a razão entre a frequência do pico 1x e a frequência do pico 2x.",
+      "Qual a relação entre a frequência encontrada no pico 1x e a encontrada no pico 2x?",
+      "Determine a razão entre as frequências correspondentes aos picos 1x e 2x.",
+      "Calcule a razão entre a frequência onde foi identificado o pico 1x e a frequência do pico 2x.",
+      "Qual é o resultado da divisão entre a frequência do pico 1x e a do pico 2x?",
+      "Faça a razão entre as frequências identificadas nos picos 1x e 2x.",
+      "Obtenha a razão entre a frequência do pico 1x e a frequência do pico 2x.",
+      "Compare, por meio de uma razão, as frequências dos picos 1x e 2x.",
+      "Qual a razão entre a frequência encontrada para o pico 1x e a frequência encontrada para o pico 2x?"
+    ]
+  },
+  {
+    "question": [
+      "Qual a variância entre as amplitudes no range [RANGE]Hz nesse sinal?",
+      "Qual é a variância das amplitudes no range [RANGE]Hz neste sinal?",
+      "Calcule a variância das amplitudes entre [RANGE]Hz no sinal.",
+      "Qual a variância das amplitudes dentro do intervalo [RANGE]Hz neste sinal?",
+      "Determine a variância das amplitudes na faixa de frequência [RANGE]Hz do sinal.",
+      "Qual é o valor da variância das amplitudes entre [RANGE]Hz no sinal?",
+      "Calcule a variância das amplitudes considerando o range [RANGE]Hz do sinal.",
+      "Obtenha a variância das amplitudes no intervalo de frequência [RANGE]Hz do sinal.",
+      "Qual a variância dos valores de amplitude na faixa [RANGE]Hz do sinal?",
+      "Determine o valor da variância das amplitudes entre [RANGE]Hz do sinal.",
+      "Calcule a variância das amplitudes dentro da faixa de frequência [RANGE]Hz do sinal."
+    ]
+  },
+  {
+    "question": [
+      "Calcule a razão média entre as amplitudes dos picos 1x e 2x para cada tipo de falha.",
+      "Qual é a razão entre as amplitudes dos picos 1x e 2x agrupada por tipo de falha?",
+      "Determine a média da razão entre os picos 1x e 2x para cada categoria de falha.",
+      "Compare a relação entre as amplitudes dos picos 1x e 2x entre os diferentes tipos de falha.",
+      "Calcule a média da divisão da amplitude de 1x pela amplitude de 2x para cada tipo de falha.",
+      "Agrupe os sinais por tipo de falha e calcule a razão média entre as amplitudes dos picos 1x e 2x.",
+      "Para cada tipo de falha, calcule a média do quociente entre a amplitude do pico 1x e a amplitude do pico 2x.",
+      "Identifique a razão média entre as amplitudes de vibração nas frequências 1x e 2x para cada tipo de falha.",
+      "Qual é o valor médio da razão 1x/2x para cada tipo de falha, em ordem decrescente?",
+      "Existe diferença na razão média entre as amplitudes dos picos 1x e 2x conforme o tipo de falha?",
+      "Como varia a razão entre os picos 1x e 2x de acordo com o tipo de falha?",
+      "Qual é a razão média entre as amplitudes de primeira e segunda ordem para cada falha identificada?",
+      "Qual é a média do quociente entre os valores de amplitude dos picos 1x e 2x para cada classe de falha?"
+    ]
+  },
+  {
+    "question": [
+      "Quais falhas foram identificadas nos sinais deste sensor? Mostre o número de falhas também.",
+      "Quais tipos de falhas esse sensor registrou e quantas foram identificadas?",
+      "Liste as falhas detectadas por este sensor e informe a quantidade de cada uma.",
+      "Quais falhas foram acusadas pelo sensor e qual é o total registrado?",
+      "Verifique quais falhas o sensor apresentou e informe suas respectivas quantidades.",
+      "Quais são as falhas registradas para este sensor? Retorne também a contagem.",
+      "Mostre as falhas detectadas pelo sensor e o número de ocorrências de cada falha.",
+      "Quais problemas foram identificados pelo sensor e quantas vezes cada um ocorreu?",
+      "Quais falhas foram reportadas por esse sensor? Informe o total de ocorrências.",
+      "Preciso saber quais falhas esse sensor detectou e quantas foram registradas.",
+      "Retorne os tipos de falhas identificados neste sensor e suas respectivas contagens.",
+      "Quais falhas existem nos sinais monitorados por este sensor e qual a quantidade de cada tipo?",
+      "Faça um levantamento das falhas detectadas por este sensor, incluindo a contagem de cada uma.",
+      "Quais ocorrências de falha foram registradas por este sensor? Agrupe por tipo e conte."
+    ]
+  }
+]

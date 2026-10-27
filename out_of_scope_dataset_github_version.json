@@ -1,0 +1,578 @@
+[
+  {
+    "question": "O que é a planilha de picos de vibração?"
+  },
+  {
+    "question": "Como posso ver a planilha de picos de vibração?"
+  },
+  {
+    "question": "O que é possível ver na planilha de picos de vibração?"
+  },
+  {
+    "question": "Como posso distinguir entre os testes de varredura e londa duração na planilha de picos de vibração?"
+  },
+  {
+    "question": "Tem como eu ver o gráfico do espectro correspondente à uma célula específica na planilha de vibração?"
+  },
+  {
+    "question": "Tem como selecionar mais de uma célula na planilha de vibração?"
+  },
+  {
+    "question": "O que as células em vermelho indicam na planilha de picos de vibração?"
+  },
+  {
+    "question": "Como é possível exportar os gráficos dos espectros?"
+  },
+  {
+    "question": "Como posso exportar os dados de picos de vibração no RPDBCS?"
+  },
+  {
+    "question": "Tem como mudar o delimitador da planilha para outro ao invés do \";\"?"
+  },
+  {
+    "question": "Como gero um relatório?"
+  },
+  {
+    "question": "Como posso salvar as informações preenchidas na configuração de relatório no RPDBCS?"
+  },
+  {
+    "question": "As configurações do relatório são salvas automaticamente?"
+  },
+  {
+    "question": "Qual é a funcionalidade da aba Anexos no relatório do RPDBCS?"
+  },
+  {
+    "question": "O que acontece com as configurações de relatório após salvar?"
+  },
+  {
+    "question": "O que é possível mudar na capa de um relatório no RPDBCS?"
+  },
+  {
+    "question": "Tem como colocar diagnósticos no relatório?"
+  },
+  {
+    "question": "Os comentários que eu fiz também aparecem no relatório?"
+  },
+  {
+    "question": "Como posso validar o sistema de aprendizado?"
+  },
+  {
+    "question": "O que é o papel do especialista na validação do sistema de aprendizado do RPDBCS?"
+  },
+  {
+    "question": "O que é o sistema de aprendizado do RPDBCS?"
+  },
+  {
+    "question": "Qual é o processo de validação do Sistema de Aprendizado do RPDBCS?"
+  },
+  {
+    "question": "Como o especialista pode validar as informações do sistema de aprendizado?"
+  },
+  {
+    "question": "Como o sistema de aprendizado do RPDBCS pode aprimorar?"
+  },
+  {
+    "question": "Como posso realizar a validação do aprendizado pelo RPDBCS?"
+  },
+  {
+    "question": "Como é possível acessar a tela de curvas de aprendizado no RPDBCS?"
+  },
+  {
+    "question": "O que cada curva de aprendizado significa?"
+  },
+  {
+    "question": "Como é possível compartilhar o aprendizado do software entre usuários?"
+  },
+  {
+    "question": "Como faço para exportar o aprendizado do software RPDBCS?"
+  },
+  {
+    "question": "Como faço para importar um arquivo de aprendizado no software RPDBCS?"
+  },
+  {
+    "question": "Qual é o processo de realizar um backup do sistema no RPDBCS?"
+  },
+  {
+    "question": "Porque meu backup está demorando tanto?"
+  },
+  {
+    "question": "Como é possível carregar um backup dos dados do programa RPDBCS?"
+  },
+  {
+    "question": "Meus dados serão perdidos ao carregar um backup?"
+  },
+  {
+    "question": "Tem como eu importar dados de uma versão diferente do RPDBCS?"
+  },
+  {
+    "question": "Caso eu tenha desinstalado o RPDBCS 1, como posso restaurar os dados?"
+  },
+  {
+    "question": "Como é possível anexar arquivos a testes no RPDBCS?"
+  },
+  {
+    "question": "Posso anexar quaisquer arquivos aos testes?"
+  },
+  {
+    "question": "Pra que serve o Editor de Configuração de BCS?"
+  },
+  {
+    "question": "Como posso acessar o Editor de Configuração de BCS?"
+  },
+  {
+    "question": "Como posso criar um novo arquivo de calibração?"
+  },
+  {
+    "question": "Que informações eu devo inserir para criar uma configuração de calibração?"
+  },
+  {
+    "question": "Como posso autoenumerar os sensores no RPDBCS?"
+  },
+  {
+    "question": "Como posso atribuir linhas de cabeçalho para os arquivos de dados no RPDBCS?"
+  },
+  {
+    "question": "Qual é a extensão do arquivo de calibração no RPDBCS?"
+  },
+  {
+    "question": "Como posso importar fatores de calibração no RPDBCS?"
+  },
+  {
+    "question": "Qual é o processo para abrir um arquivo de calibração existente no RPDBCS?"
+  },
+  {
+    "question": "Qual é a forma de salvar o arquivo de calibração no RPDBCS?"
+  },
+  {
+    "question": "Qual é o objetivo principal do Renomeador de Arquivos?"
+  },
+  {
+    "question": "A ferramenta \"Renomeador de Arquivos\" renomeia os arquivos importados ou cria uma cópia com o novo nome?"
+  },
+  {
+    "question": "Qual é a forma de renomear arquivos de longa duração no RPDBCS?"
+  },
+  {
+    "question": "Como posso renomear um arquivo de varredura no RPDBCS?"
+  },
+  {
+    "question": "O que coloco no campo \"Rotação\" do Renomeador de Arquivos?"
+  },
+  {
+    "question": "Como posso preencher o campo \"Vazão\" no Renomeador de Arquivos?"
+  },
+  {
+    "question": "O que insiro no campo \"Índice\" do Renomeador de Arquivos?"
+  },
+  {
+    "question": "O que é o campo \"Numeração\" no Renomeador de Arquivos?"
+  },
+  {
+    "question": "Como o software RPDBCS pode renomear arquivos de importação?"
+  },
+  {
+    "question": "Qual é o formato de um arquivo de calibração no RPDBCS?"
+  },
+  {
+    "question": "Qual é o software de gerenciamento de banco de dados utilizado pelo RPDBCS?"
+  },
+  {
+    "question": "Qual é o objetivo do Microsoft Visual C++ 2010 no RPDBCS?"
+  },
+  {
+    "question": "Qual é o objetivo do Microsoft Visual C++ 2012-2015 no RPDBCS?"
+  },
+  {
+    "question": "Qual é o objetivo do Java Runtime Environment no RPDBCS?"
+  },
+  {
+    "question": "Como o RPDBCS é desinstalado?"
+  },
+  {
+    "question": "Como posso alterar a licença do RPDBCS?"
+  },
+  {
+    "question": "Qual é a estrutura de organização dos dados do RPDBCS?"
+  },
+  {
+    "question": "O que é um Conjunto BCS?"
+  },
+  {
+    "question": "Criei um novo projeto, o que faço agora?"
+  },
+  {
+    "question": "Não estou vendo a minha Configuração BCS no módulo de Configurações BCS. O que está acontecendo?"
+  },
+  {
+    "question": "Estou com um projeto aberto no sistema, o que estou vendo na tela principal?"
+  },
+  {
+    "question": "O que significam esses botões no painel superior esquerdo da tela principal?"
+  },
+  {
+    "question": "O que são esses botões na área de trabalho?"
+  },
+  {
+    "question": "Onde posso fazer o cadastro de BCS?"
+  },
+  {
+    "question": "Como é possível iniciar uma nova configuração de BCS no módulo \"Configurações BCS\"?"
+  },
+  {
+    "question": "Como posso importar uma configuração BCS?"
+  },
+  {
+    "question": "Como posso exportar uma configuração BCS?"
+  },
+  {
+    "question": "Qual é o processo para salvar uma configuração de BCS no RPDBCS?"
+  },
+  {
+    "question": "Como posso modificar a posição de um componente em uma configuração BCS?"
+  },
+  {
+    "question": "Como posso duplicar um componente de uma configuração BCS?"
+  },
+  {
+    "question": "Como posso remover um componente de uma BCS?"
+  },
+  {
+    "question": "Como posso abrir uma configuração de BCS?"
+  },
+  {
+    "question": "Como adiciono componentes durante o cadastro de uma BCS no RPDBCS?"
+  },
+  {
+    "question": "Que componentes posso adicionar a minha BCS?"
+  },
+  {
+    "question": "Como posso criar um novo componente para uma BCS?"
+  },
+  {
+    "question": "Qual é o processo para criar um novo Projeto no RPDBCS?"
+  },
+  {
+    "question": "Como posso renomear o nome do meu projeto no RPDBCS?"
+  },
+  {
+    "question": "O que acontece se eu criar um projeto com o mesmo nome de outro?"
+  },
+  {
+    "question": "Como posso ocultar um projeto no RPDBCS?"
+  },
+  {
+    "question": "Como posso desocultar projetos no RPDBCS?"
+  },
+  {
+    "question": "Não estou conseguindo confirmar a minha configuração de sensores, o que pode ser?"
+  },
+  {
+    "question": "O que fazem os botões da tela de Configuração de Sensores?"
+  },
+  {
+    "question": "Como posso excluir uma linha da tabela de cadastro de sensores na Tela de Configuração de Sensores do RPDBCS?"
+  },
+  {
+    "question": "Qual é a funcionalidade do botão \"Adicionar múltiplos sensores\" na Tela de Configuração de Sensores do RPDBCS?"
+  },
+  {
+    "question": "Quais são as informações que tenho que colocar na tabela de cadastro de sensores na Tela de Configuração de Sensores no RPDBCS?"
+  },
+  {
+    "question": "Como posso adicionar códigos de sensores de forma automática no RPDBCS?"
+  },
+  {
+    "question": "Tem alguma numeração específica que devo colocar nos códigos dos sensores da tabela de sensores?"
+  },
+  {
+    "question": "Onde clico para adicionar um Conjunto BCS a um Projeto?"
+  },
+  {
+    "question": "Cliquei no botão para adicionar um novo conjunto BCS no meu projeto, e agora?"
+  },
+  {
+    "question": "Como os dados são processados após a importação no RPDBCS?"
+  },
+  {
+    "question": "Qual é o processo para importar e processar os dados de um novo teste no RPDBCS?"
+  },
+  {
+    "question": "Como devem ser os arquivos que devo selecionar na tela de importação de dados de vibração?"
+  },
+  {
+    "question": "Como deve ser o nome de um arquivo de teste de varredura no RPDBCS?"
+  },
+  {
+    "question": "Qual diferença deve ter entre os nomes dos arquivos de varredura e de longa duração no RPDBCS?"
+  },
+  {
+    "question": "Qual é o padrão de codificação para os nomes dos arquivos de testes de longa duração no RPDBCS?"
+  },
+  {
+    "question": "Para que servem os arquivos de calibração no RPDBCS?"
+  },
+  {
+    "question": "Como o RPDBCS define a janela de frequência por padrão?"
+  },
+  {
+    "question": "Como posso definir a janela de busca para cada frequência de alimentação no RPDBCS?"
+  },
+  {
+    "question": "Como posso reverter as modificações que fiz na janela de busca da frequência de alimentação?"
+  },
+  {
+    "question": "Como faço para alterar a janela de busca de um conjunto de testes já importado no RPDBCS?"
+  },
+  {
+    "question": "Como faço para exportar as análises e os dados processados de um teste no RPDBCS?"
+  },
+  {
+    "question": "Como posso obter um arquivo \"rtse\"?"
+  },
+  {
+    "question": "Estão me pedindo para enviar um arquivo \"rtse\", o que é isso?"
+  },
+  {
+    "question": "Qual é a extensão do arquivo que contém as informações de um teste no RPDBCS?"
+  },
+  {
+    "question": "Me entregaram um arquivo \"rtse\", o que faço com ele?"
+  },
+  {
+    "question": "Importei um arquivo \"rtse\" no sistema, mas não estou encontrando os dados brutos."
+  },
+  {
+    "question": "O que são os dados brutos de um teste?"
+  },
+  {
+    "question": "Para que exportar os dados no domínio do tempo?"
+  },
+  {
+    "question": "Como é possível exportar dados brutos de um teste?"
+  },
+  {
+    "question": "Que tipo de arquivo é gerado ao fim da exportação de dados brutos?"
+  },
+  {
+    "question": "Acabei de importar meu conjunto de teste e uma planilha apareceu na minha tela, o que é isso?"
+  },
+  {
+    "question": "Na Planilha de Defeitos, o que uma célula representa?"
+  },
+  {
+    "question": "Como posso visualizar as informações de um diagnóstico de defeito no RPDBCS?"
+  },
+  {
+    "question": "Como posso selecionar várias células na planilha de defeitos do RPDBCS?"
+  },
+  {
+    "question": "Selecionei uma célula da planilha de defeitos e gostaria de ver o gráfico dela, mas ele está muito pequeno. Tem como maximizar ele?"
+  },
+  {
+    "question": "Como posso ocultar os diagnósticos feitos pelo sistema?"
+  },
+  {
+    "question": "O que este primeiro botão na barra de tarefas acima da planilha de defeitos faz?"
+  },
+  {
+    "question": "Como posso ocultar os diagnósticos feitos pelos usuários?"
+  },
+  {
+    "question": "O que este segundo botão na barra de tarefas acima da planilha de defeitos faz?"
+  },
+  {
+    "question": "Acho que um sensor não apresenta nenhum dos padrões conhecidos. Como posso inserir um marcador de defeito específico num sensor?"
+  },
+  {
+    "question": "Acho que fiz algo de errado, como posso desfazer a ação?"
+  },
+  {
+    "question": "Desfiz uma ação, mas gostaria de refazê-la, tem algum botão pra isso?"
+  },
+  {
+    "question": "Como posso remover rapidamente todos os diagnósticos de falhas de várias células ao mesmo tempo?"
+  },
+  {
+    "question": "Como eu adiciono diagnósticos de defeitos ao teste no RPDBCS?"
+  },
+  {
+    "question": "Acabei sobrescrevendo um defeito anterior e não lembro qual era, tem como eu retornar para o anterior?"
+  },
+  {
+    "question": "Como posso saber o que cada cor significa na planilha de defeitos?"
+  },
+  {
+    "question": "Como posso excluir diagnósticos de defeitos no RPDBCS?"
+  },
+  {
+    "question": "Tem como editar um comentário após postado?"
+  },
+  {
+    "question": "Onde posso ver os comentários feitos por usuários sobre múltiplas células da planilha?"
+  },
+  {
+    "question": "Onde posso ver os comentários feitos por usuários sobre a planilha de defeitos?"
+  },
+  {
+    "question": "Como posso visualizar comentários sobre uma célula específica?"
+  },
+  {
+    "question": "Qual é a funcionalidade da aba \"Individual\" do painel \"Diagnóstico\" no RPDBCS?"
+  },
+  {
+    "question": "Qual é o processo para criar um novo comentário sobre uma célula específica da planilha de diagnósticos no RPDBCS?"
+  },
+  {
+    "question": "Qual é a funcionalidade da aba \"Grupo\" do painel \"Diagnóstico\" no RPDBCS?"
+  },
+  {
+    "question": "Como posso alterar o nome de um diagnóstico de grupo de células?"
+  },
+  {
+    "question": "Tem como alterar a descrição de um diagnóstico de grupo de células?"
+  },
+  {
+    "question": "Como posso excluir eventos relevantes de uma análise de diagnósticos em grupo no RPDBCS?"
+  },
+  {
+    "question": "Qual é o objetivo da Análise de Grupo de Diagnósticos no RPDBCS?"
+  },
+  {
+    "question": "Como criar uma nova análise de diagnósticos em grupo no RPDBCS?"
+  },
+  {
+    "question": "Tem como deixar um comentário em uma análise de diagnósticos em grupo?"
+  },
+  {
+    "question": "Qual é a funcionalidade da aba \"Global\" no painel \"Diagnóstico\" no RPDBCS?"
+  },
+  {
+    "question": "O que posso fazer quando identifico muitas advertências num teste?"
+  },
+  {
+    "question": "Quando um defeito é classificado em aviso no RPDBCS?"
+  },
+  {
+    "question": "Quando um defeito é classificado em advertência no RPDBCS?"
+  },
+  {
+    "question": "Onde posso criar um novo comentário sobre a planilha de defeitos?"
+  },
+  {
+    "question": "Quando é recomendado executar a reclassificação automática dos testes?"
+  },
+  {
+    "question": "Como posso reclassificar automaticamente o teste usando redes neurais?"
+  },
+  {
+    "question": "Qual é o outro método utilizado para realizar reclassificação no RPDBCS além das redes neurais?"
+  },
+  {
+    "question": "Como posso reclassificar automaticamente um teste no RPDBCS?"
+  },
+  {
+    "question": "Há algum perigo em realizar a execução da Reclassificação Automática de Sistema?"
+  },
+  {
+    "question": "Como posso acessar o histórico de ações?"
+  },
+  {
+    "question": "Tem como exportar o histórico de ações?"
+  },
+  {
+    "question": "Tem como exportar a planilha de defeitos?"
+  },
+  {
+    "question": "O que significa a opção \"Exportar Matriz de Diagnóstico\"?"
+  },
+  {
+    "question": "Qual é o propósito das linhas vermelha e amarela nos espectros de frequência do RPDBCS?"
+  },
+  {
+    "question": "Como faço para ver os gráficos dos espectros no modo \"Varredura\"?"
+  },
+  {
+    "question": "Como posso ver os gráficos dos espectros no modo \"Longa Duração\"?"
+  },
+  {
+    "question": "Como os dados coletados no domínio do tempo são transformados em espectros de frequência?"
+  },
+  {
+    "question": "Como posso selecionar uma condição de operação específica de um teste para ver os gráficos dos espectros?"
+  },
+  {
+    "question": "Como posso ver somente um gráfico específico na visualização de espectros?"
+  },
+  {
+    "question": "Tem como ver mais de um gráfico de espectro na visualização de espetros?"
+  },
+  {
+    "question": "Onde posso modificar a forma de visualização de múltiplos espectros?"
+  },
+  {
+    "question": "De que maneiras posso sobrepôr os sinais em diferentes condições de operação?"
+  },
+  {
+    "question": "Como posso visualizar dois espectros de uma mesma frequência e eixos diferentes num mesmo gráfico?"
+  },
+  {
+    "question": "O que o botão \"Exibir Sinais Sobrepostos\" faz?"
+  },
+  {
+    "question": "Como posso visualizar os espectros somente com as frequências sobrepostas no RPDBCS?"
+  },
+  {
+    "question": "O que o botão \"Exibir Frequências Sobrepostas\" faz?"
+  },
+  {
+    "question": "Tem como montar um gráfico com sinais e frequências sobrepostos?"
+  },
+  {
+    "question": "O que o botão \"Exibir Sinais e Frequências Sobrepostos\" faz?"
+  },
+  {
+    "question": "Tem como mostrar um gráfico normalizado?"
+  },
+  {
+    "question": "O que o botão \"Exibir Harmônicas\" faz?"
+  },
+  {
+    "question": "Tem como ampliar uma área específica do espectro?"
+  },
+  {
+    "question": "Eu dei um zoom no espectro, mas quero retornar para a visualização original do espectro."
+  },
+  {
+    "question": "Tem como deslocar um gráfico de espectro?"
+  },
+  {
+    "question": "Tem como retornar o gráfico à posição original depois de deslocar ele?"
+  },
+  {
+    "question": "Gostaria de saber qual é o valor de um dos picos no gráfico, tem como saber isso?"
+  },
+  {
+    "question": "Estou achando muito difícil posicionar o mouse exatamente nos picos do espectro, tem algo que possa me ajudar?"
+  },
+  {
+    "question": "O que o cursor automático faz?"
+  },
+  {
+    "question": "Como é possível visualizar todos os espectros da condição de operação selecionada em tela cheia?"
+  },
+  {
+    "question": "Que informações adicionais é possível ver num gráfico no modo de tela cheia?"
+  },
+  {
+    "question": "Como posso ampliar um gráfico no modo tela cheia?"
+  },
+  {
+    "question": "Qual é a função do botão \"Tela Cheia\" na exibição de espectros do RPDBCS?"
+  },
+  {
+    "question": "Como posso navegar entre as condições de operação do teste no modo tela cheia?"
+  },
+  {
+    "question": "Tem como modificar o posicionamento das linhas de alarme?"
+  }
+]
